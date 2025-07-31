@@ -1,0 +1,552 @@
+---
+title: |
+  | [지리공간정보 교육 프로그램]{style="color:coral;font-size:0.6em"}   
+  | [AIㆍ디지털 시대의 지리 교사의 역량]{style="font-size:0.9em"} 
+author: <br> 이상일(서울대학교 지리교육과 교수)
+date: 2025-7-28
+format: 
+  revealjs:
+    logo: snu_edu_1.png
+    footer: https://sangillee.snu.ac.kr/
+    transition: fade
+    transition-speed: fast
+    margin: 0.05
+    center: false
+    # smaller: false
+    # scrollable: false
+    code-link: true
+    code-overflow: scroll
+    slide-number: true
+    width: 960 * 1.5
+    height: 700 * 1.5
+    lightbox: false
+    # min-scale: 1
+    # max-scale: 1
+    pointer:
+      pointerSize: 20
+      color: red
+    menu: true
+    embed-resources: false
+    theme: [default, custom_hq.scss]
+    revealjs-plugins:
+      - pointer
+code-link: true
+execute: 
+  warning: false
+  error: false
+  freeze: auto  
+dpi: 600
+editor: visual
+# suppress-bibliography: true
+---
+
+## 소개: 운영진
+
+-   [이상일](https://sangillee.snu.ac.kr/): 서울대학교 [지리교육과](https://geoedu.snu.ac.kr/) 교수
+
+    -   서울대학교 [AI융합교육학과](https://aied.snu.ac.kr/)
+
+    -   서울대학교 데이터사이언스대학원 [응용데이터사이언스](https://gsds.snu.ac.kr/integrated/)
+
+-   이소영: 가톨릭관동대학교 [지리교육과](https://www.cku.ac.kr/geography/index.do) 교수
+
+-   실습 조교
+
+    -   김세창: 서울대학교 지리교육과 석사 졸업
+
+    -   김우형: 서울대학교 지리교육과 조교, 석사과정
+
+    -   전혜민: 서울대학교 지리교육과 석사과정
+
+    -   이하은: 서울대학교 지리교육과 조교, 박사과정
+
+## 소개: 연수 참가자
+
+-   고등학교 지리 교사
+
+    -   김한성[(압구정고등학교)]{style="color:gray;font-size:0.8em"}
+
+    -   남혜경[(둔촌고등학교)]{style="color:gray;font-size:0.8em"}
+
+    -   배선주[(가락고등학교)]{style="color:gray;font-size:0.8em"}
+
+    -   정고은[(상명대학교부속여자고등학교)]{style="color:gray;font-size:0.8em"}
+
+    -   최기중[(경동고등학교)]{style="color:gray;font-size:0.8em"}
+
+    -   이용훈[(한광여자고등학교)]{style="color:gray;font-size:0.8em"}
+
+    -   정종석[(광주고등학교)]{style="color:gray;font-size:0.8em"}
+
+-   국토지리정보원: 송민희
+
+## 프로그램 홈페이지
+
+-   <https://sangillee.snu.ac.kr/2025_Geospatial_Edu/>
+
+## 강의 목차
+
+-   AIㆍ디지털 전환과 세 가지 사이언스의 융합
+
+-   인터랙티브 지리공간 [**교수-학습 웹 앱**]{style="color:coral"} 개발 역량
+
+## 
+
+![](images/clipboard-3702936437.png)
+
+# [AIㆍ디지털 전환과 <br> 세 가지 사이언스의 융합]{style="color:coral;font-size:0.85em"}
+
+## 
+
+![[https://en.wikipedia.org/wiki/ChatGPT](https://en.wikipedia.org/wiki/ChatGPT){style="font-size:0.5em"}](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/1920px-ChatGPT-Logo.svg.png){fig-align="center"}
+
+## 
+
+![[https://en.wikipedia.org/wiki/Large_language_model](https://en.wikipedia.org/wiki/Large_language_model){style="font-size:0.5em"}](images/The-Transformer-model-architecture.png)
+
+## 
+
+![](images/clipboard-379519602.png)
+
+## 
+
+![](images/clipboard-2166300255.png)
+
+## 
+
+:::: {layout-ncol="2"}
+![[https://dunoit.com/blogs/30-ai-64f7e9d81cb43](https://dunoit.com/blogs/30-ai-64f7e9d81cb43){style="font-size:0.5em"}](images/30AITools.png){width="546"}
+
+<div>
+
+![[https://commons.wikimedia.org/wiki/File:R_logo.svg](https://commons.wikimedia.org/wiki/File:R_logo.svg){style="font-size:0.5em"}](images/clipboard-135077115.png){fig-align="center" width="530"}
+
+</div>
+::::
+
+## 
+
+![](images/clipboard-313591340.png){fig-align="center"}
+
+## 
+
+![[https://en.wikipedia.org/wiki/John_Snow](https://en.wikipedia.org/wiki/John_Snow){style="font-size:0.5em"}](images/Snow-cholera-map-1.jpg)
+
+## 
+
+```{=html}
+<iframe src="Snow Map.html" width="100%" height="1000px" style="border:none;"></iframe>
+```
+
+## 
+
+::: {layout-ncol="2"}
+![](images/clipboard-3656386038.png)
+
+![[https://mokeya.tistory.com/76](https://mokeya.tistory.com/76){style="font-size:0.5em"}](images/clipboard-2179833248.png)
+:::
+
+## 
+
+> 데이터사이언스는 [원(raw) 데이터]{style="color:red"}로부터 [지식, 이해, 통찰]{style="color:green"}을 획득하기 위해 [수학 및 통계학, 컴퓨터 과학, 도메인(분야) 지식에서 발전해 온 이론, 기술, 방법론]{style="color:blue"} 등을 융합적으로 활용하는 간학문적 영역
+
+> 지식, 이해, 통찰을 효과적으로 [소통]{style="color:purple"}하고, 현실 [문제 해결]{style="color:purple"}에 대안을 제시
+
+## 
+
+![[https://commons.wikimedia.org/wiki/File:Data-Science-Landscape.jpg](https://commons.wikimedia.org/wiki/File:Data-Science-Landscape.jpg){style="font-size:0.5em"}](images/Data-Science-Landscape.jpg){fig-align="center"}
+
+## 
+
+::: {layout-ncol="2"}
+![](images/clipboard-2588991240.png)
+
+![[https://www.openscience-maastricht.nl/the-open-science-mission/](https://www.openscience-maastricht.nl/the-open-science-mission/){style="font-size:0.5em"}](images/clipboard-1890534398.png)
+:::
+
+## 
+
+![[https://libraries.mit.edu/news/data-necessarily/31421/](https://libraries.mit.edu/news/data-necessarily/31421/){style="font-size:0.5em"}](images/FAIRNotOpen-e1604960355240.png)
+
+## 
+
+![[https://cloud.google.com/apigee/docs/api-platform/tutorials/create-api-proxy-openapi-spec?hl=ko](https://cloud.google.com/apigee/docs/api-platform/tutorials/create-api-proxy-openapi-spec?hl=ko){style="font-size:0.5em"}](images/clipboard-2626696061.png)
+
+## 
+
+![[https://en.wikipedia.org/wiki/Open_Source_Initiative](https://en.wikipedia.org/wiki/Open_Source_Initiative){style="font-size:0.5em"}](images/clipboard-4148451024.png)
+
+## 
+
+![[https://blogs.oregonstate.edu/inspire/2021/11/15/open-educational-resources-for-language-teaching-and-learning/](https://blogs.oregonstate.edu/inspire/2021/11/15/open-educational-resources-for-language-teaching-and-learning/){style="font-size:0.5em"}](images/clipboard-878028619.png)
+
+## 
+
+![[https://www.technologynetworks.com/informatics/articles/repeatability-vs-reproducibility-317157](https://www.technologynetworks.com/informatics/articles/repeatability-vs-reproducibility-317157){style="font-size:0.5em"}](images/clipboard-4103629629.png)
+
+## 
+
+![[https://ttw-rtd.readthedocs.io/en/latest/reproducible-research/reproducible-research.html](https://ttw-rtd.readthedocs.io/en/latest/reproducible-research/reproducible-research.html){style="font-size:0.5em"}](images/clipboard-434627674.png)
+
+## 
+
+![[https://velog.io/\@eldoradodo/an96ydx7](https://velog.io/@eldoradodo/an96ydx7){style="font-size:0.5em"}](images/clipboard-4151381358.png){fig-align="center"}
+
+## 
+
+::: {layout-ncol="3"}
+![](images/clipboard-4110213897.png)
+
+![](images/clipboard-608165154.png)
+
+![](images/clipboard-1530956463.png)
+:::
+
+## 
+
+::: {layout-ncol="2"}
+![](images/clipboard-990944168.png)
+
+![](images/clipboard-3501198911.png)
+:::
+
+## 
+
+![](images/clipboard-501177376.png){fig-align="center"}
+
+## 
+
+::: panel-tabset
+## EPSG:4326
+
+![[https://earthobservatory.nasa.gov/features/NightLights](https://earthobservatory.nasa.gov/features/NightLights){style="font-size:0.5em"}](images/clipboard-3176197551.png)
+
+## EPSG: 54030
+
+![](images/clipboard-570478346.png)
+
+## EPSG: ???
+
+![](images/clipboard-3866962389.png) [PROJ.4 문자열: +proj=robin +lon_0=150 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs]{style="font-size:0.4em"}
+:::
+
+## 
+
+::: {layout-ncol="3"}
+![](images/clipboard-3814750310.png)
+
+![](images/clipboard-2806611500.png)
+
+![](images/clipboard-402768516.jpeg)
+
+![](images/clipboard-364487088.png)
+
+![](images/clipboard-2528161497.png)
+
+![](images/clipboard-794024909.png)
+:::
+
+## 
+
+::: {layout-ncol="3"}
+![[https://colorbrewer2.org/](https://colorbrewer2.org/){style="font-size:0.5em"}](images/clipboard-1760436018.png)
+
+![](images/clipboard-318236472.png)
+
+![](images/clipboard-4048727015.png)
+:::
+
+## 
+
+![](images/clipboard-2624998369.png)
+
+## 
+
+::: {layout-ncol="3"}
+![](images/clipboard-2313727414.jpeg)
+
+![](images/clipboard-2000084540.jpeg)
+
+![](images/clipboard-2948073899.jpeg)
+
+![](images/clipboard-1868868499.jpeg)
+
+![](images/clipboard-3782405139.jpeg)
+
+![](images/clipboard-825423489.jpeg)
+:::
+
+## 
+
+::: {layout-ncol="3"}
+![](images/clipboard-3015490615.jpeg)
+
+![](images/clipboard-831764398.jpeg)
+
+![](images/clipboard-587255044.jpeg)
+
+![](images/clipboard-489605013.jpeg)
+
+![](images/clipboard-3473970319.jpeg)
+
+![](images/clipboard-3864052789.jpeg)
+:::
+
+## 
+
+![](images/clipboard-3031997386.png){fig-align="center"}
+
+## 
+
+![[https://gsp.humboldt.edu/olm/Courses/GSP_216/lessons/composites.html](https://gsp.humboldt.edu/olm/Courses/GSP_216/lessons/composites.html){style="font-size:0.5em"}](images/bands.jpg)
+
+## 
+
+![](images/clipboard-4079043681.jpeg)
+
+## 
+
+![](images/clipboard-4165131388.jpeg){fig-align="center"}
+
+## 
+
+![](images/IDIP_4e_Figure_10_17_L.jpg){fig-align="center"}
+
+## 
+
+![](images/clipboard-2641525290.jpeg){fig-align="center"}
+
+## 
+
+![](images/clipboard-779750977.png)
+
+## 
+
+::: {layout-ncol="3"}
+![](images/clipboard-3717655883.png)
+
+![](images/clipboard-2105802138.png)
+
+![](images/clipboard-2983629726.png)
+
+![](images/clipboard-2323674267.png)
+
+![](images/clipboard-1281700759.png)
+
+![](images/clipboard-3517218905.png)
+:::
+
+##  {visibility="hidden"}
+
+::: panel-tabset
+## Old
+
+![[https://en.wikipedia.org/wiki/Population_density](https://en.wikipedia.org/wiki/Population_density){style="font-size:0.5em"}](images/clipboard-3404369694.png)
+
+## New
+
+![](images/clipboard-886164121.png){fig-align="center"}
+:::
+
+## 
+
+::: {layout="[64,-5,34]"}
+![[https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/](https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/){style="font-size:0.5em"}](images/clipboard-1270623929.png)
+
+![[https://r-spatial.org/book/](https://r-spatial.org/book/){style="font-size:0.5em"}](images/clipboard-3760900325.png){fig-align="center"}
+:::
+
+# [인터랙티브 지리공간 <br> 교수-학습 웹 앱 개발]{style="color:coral;font-size:0.85em"}
+
+## 
+
+![](images/clipboard-4074721109.png)
+
+## 
+
+::: {layout="[40,60]"}
+![](images/clipboard-1248908344.jpeg)
+
+![](images/clipboard-557985304.jpeg)
+:::
+
+## 
+
+![[http://dx.doi.org/10.17232/KSET.41.1.79](http://dx.doi.org/10.17232/KSET.41.1.79){style="font-size:0.5em"}](images/clipboard-4164862292.png)
+
+## 인터랙티브 교수-학습 웹 앱
+
+-   [학습자와 콘텐츠 간의 상호작용]{style="color:coral"}을 중심으로 설계되어, 능동적 참여, 즉각적 피드백, 탐구 활동 등을 통해 개인의 학습 경험을 향상시키는 [교육용 웹 애플리케이션]{style="color:coral"}
+
+-   성격
+
+    -   [디지털 학습지]{style="color:coral"}: 교과의 학습 내용을 효과적으로 교수/학습하도록 도와주는 도구
+
+    -   [탐구 학습 도구]{style="color:coral"}: 데이터 탐색을 통해 학습자 스스로 이해, 지식, 통찰을 얻도록 도와주는 도구
+
+## 인터랙티브 교수-학습 웹 앱
+
+-   **웹 브라우저**를 통해 접근하고 사용하는 교수-학습 목적의 애플리케이션
+
+-   **데이터 대시보드**: 단일한 주제에 대한 상호연관된 다양한 데이터 정보를 그래픽의 형태로 일관성 있게 제시한 것
+
+    -   [레이아웃 요소]{style="color:coral"}: 카드(행과 열), 페이지, 내비게이션바, 사이드바, 툴바, 탭셋
+
+    -   [내용 요소]{style="color:coral"}: 텍스트, 표, 그래프, 지도, 동영상, 밸류 박스
+
+    -   [작동 요소]{style="color:coral"}: 정적, 동적, 인터랙티브
+
+## 
+
+```{=html}
+<iframe src="https://ivelasq.github.io/mortgage-dashboard/" width="100%" height="80%"" style="border:none;"></iframe>
+```
+
+[https://ivelasq.github.io/mortgage-dashboard/](https://ivelasq.github.io/mortgage-dashboard/){style="font-size:0.5em"}
+
+## 인터랙티브 지리공간 교수-학습 웹 앱
+
+-   [지리공간]{style="color:coral"} 요소가 강화된 인터랙티브 교수-학습 웹 앱
+
+-   학습자가 지리공간정보를 직접 조작하거나 탐색하면서, 지리 개념, 공간 사고력, 문제 해결 능력 등을 능동적·체험적 방식으로 학습할 수 있도록 설계된 교육용 웹 애플리케이션
+
+    -   인터렉티브 지리공간 시각화 및 탐색 기능
+
+-   예시
+
+    -   <https://sangillee.snu.ac.kr/dashboard_examples/>
+
+    -   <https://sangillee.snu.ac.kr/dashboard_popgeo/>
+
+## TPACK-DBL 프레임워크
+
+::: {layout-ncol="2"}
+![[https://tpack.org/tpack-image/](https://tpack.org/tpack-image/){style="font-size:0.5em"}](images/clipboard-1131372429.png)
+
+![[Baran and Uygun, 2016](https://ajet.org.au/index.php/AJET/article/view/2551){style="font-size:0.5em"}](images/clipboard-3910654211.png)
+:::
+
+## TPACK-DBL
+
+-   디지털 제작 도구에 대한 이해와 활용 능력(디지털 역량)
+
+-   복잡한 개념을 시각적이고 구조적으로 전달하는 능력(커뮤니케이션 역량)
+
+-   분석적 사고 및 데이터 기반 수업 구현 능력(데이터 리터러시 + 기술력)
+
+-   오픈 지식 생태계에의 기여(공유 및 협업 역량)
+
+## 제작 도구
+
+-   [**Quarto**](https://quarto.org/)(쿼토): 대시보드 제작 및 웹 앱 생성
+
+    -   “과학적, 기술적 출판을 위한 위한 오픈소스 시스템”
+
+    -   다양한 형식의 저작물(노트, 연구 논문, 프레젠테이션, 대시보드, 웹사이트, 블로그, 서적 등)을 다양한 디지털 포맷(HTML, PDF, MS Word, ePub 등)으로 출판할 수 있게 해주는 도구
+
+-   [**R**](https://www.r-project.org/)(혹은 Python): 인터랙티브 콘텐츠 제작
+
+    -   데이터사이언스 프로세스의 실행
+
+    -   인터랙티브 지리공간 시각화 및 탐색 기능의 구현
+
+## 
+
+![[https://rstudio.github.io/cheatsheets/html/quarto.html](https://rstudio.github.io/cheatsheets/html/quarto.html){style="font-size:0.5em"}](images/clipboard-710045230.png)
+
+## 
+
+![[https://bioinformatics.ccr.cancer.gov/docs/btep-coding-club/CC2024/Quarto/GettingStarted_with_Quarto_orig.html](https://bioinformatics.ccr.cancer.gov/docs/btep-coding-club/CC2024/Quarto/GettingStarted_with_Quarto_orig.html){style="font-size:0.25em"}](images/clipboard-2616005875.png){fig-align="center"}
+
+## 
+
+![[https://r4ds.hadley.nz/intro](https://r4ds.hadley.nz/intro){style="font-size:0.5em"}](images/clipboard-591353985.png)
+
+## 
+
+![[https://r4ds.hadley.nz/intro](https://r4ds.hadley.nz/intro){style="font-size:0.5em"}](images/clipboard-2761368546.png)
+
+## 
+
+![[https://r4ds.hadley.nz/intro](https://r4ds.hadley.nz/intro){style="font-size:0.5em"}](images/clipboard-1555835980.png)
+
+## 
+
+::: {layout-ncol="3"}
+![](images/clipboard-1399371682.png)
+
+![](images/clipboard-3067531176.png)
+
+![](images/clipboard-1754739998.png)
+:::
+
+## 
+
+::: {layout-ncol="3"}
+![](images/clipboard-160595566.png)
+
+![](images/clipboard-703341819.png)
+
+![](images/clipboard-2202101950.png)
+:::
+
+## 
+
+```{=html}
+<iframe src="https://sangillee.shinyapps.io/ThiessenPolygon/
+" width="100%" height="100%" style="border:none;"></iframe>
+```
+
+[https://sangillee.shinyapps.io/ThiessenPolygon/](https://sangillee.shinyapps.io/ThiessenPolygon/){style="font-size:0.4em"}
+
+## 자바스크립트 라이브러리
+
+-   웹 앱의 3요소
+
+    -   [HTML]{style="color:coral"}: 구조와 내용
+
+    -   [CSS]{style="color:coral"}: 시각적 디자인
+
+    -   [JavaScript]{style="color:coral"}: 동작 및 인터랙션 제어
+
+-   자바스크립트 라이브러리([JS Library]{style="color:coral"})
+
+    -   자바스크립트로 구현된, 특정 기능을 수행하기 위한 코드들의 모음
+
+    -   테이블, 차트, 지도
+
+    -   R 래퍼 패키지
+
+## 
+
+![[https://data-flair.training/blogs/javascript-libraries/](https://data-flair.training/blogs/javascript-libraries/){style="font-size:0.5em"}](images/clipboard-1466666524.png)
+
+## 
+
+```{=html}
+<iframe src="https://plotly.com/r/" width="100%" height="80%" style="border:none;"></iframe>
+```
+
+[https://plotly.com/r/](https://plotly.com/r/){style="font-size:0.5em"}
+
+## 
+
+![[https://echarts.apache.org/examples/](https://echarts.apache.org/examples/){style="font-size:0.5em"}](images/clipboard-1867407215.png){fig-align="center"}
+
+## 
+
+![[https://observablehq.com/\@d3/gallery?utm_source=d3js-org&utm_medium=hero&utm_campaign=try-observable](https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=hero&utm_campaign=try-observable){style="font-size:0.5em"}](images/clipboard-1708214647.png){style="font-size:0.35em" fig-align="center"}
+
+## 
+
+![](images/clipboard-3712927039.png){fig-align="center"}
+
+[https://leafletjs.com/](https://leafletjs.com/){style="font-size:0.5em"}
+
+## 생성형 AI
+
+::: {layout-ncol="2"}
+![[https://ellmer.tidyverse.org/](https://ellmer.tidyverse.org/){style="font-size:0.5em"}](images/clipboard-3048247562.png)
+
+![[https://ragnar.tidyverse.org/](https://ragnar.tidyverse.org/){style="font-size:0.5em"}](images/clipboard-2148468286.png)
+:::

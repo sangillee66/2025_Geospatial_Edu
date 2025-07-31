@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "지리공간정보 교육 프로그램"
+  navbar:
+    logo: snu_edu_2.png
+    # background: "#cbd5e8"
+    left:
+      - href: index.qmd
+        text: 프로그램 개요
+      - href: teacher.qmd
+        text: 연수 프로그램(교사)
+      - href: student.qmd
+        text: 체험 캠프(학생)
+    right: 
+      - icon: house-door
+        href: https://sangillee.snu.ac.kr/
+      - icon: envelope-arrow-up
+        href: mailto:si_lee@snu.ac.kr
+      - icon: github
+        href: https://github.com/sangillee66
+  # comments: 
+  #   hypothesis:
+  #     theme: clean
+  #     openSidebar: false        
+format:
+  html:
+    lang: ko
+    theme: lumen
+    css: [styles.css, custom.scss]
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,1150 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.549">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="author" content="  이상일(서울대학교 지리교육과 교수)">
+<title>지리공간정보 교육 프로그램 - | 지리공간정보 교육 프로그램 | AIㆍ디지털 전환과 지리공간정보</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light"><script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "일치 없음",
+    "search-matching-documents-text": "일치된 문서",
+    "search-copy-link-title": "검색 링크 복사",
+    "search-hide-matches-text": "추가 검색 결과 숨기기",
+    "search-more-match-text": "추가 검색결과",
+    "search-more-matches-text": "추가 검색결과",
+    "search-clear-button-title": "제거",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "취소",
+    "search-submit-button-title": "검색",
+    "search-label": "검색"
+  }
+}</script><link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="custom.scss">
+</head>
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top"><nav class="navbar navbar-expand-lg " data-bs-theme="dark"><div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./snu_edu_2.png" alt="" class="navbar-logo"></a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">지리공간정보 교육 프로그램</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="검색"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="탐색 전환" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+<li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">프로그램 개요</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teacher.html"> 
+<span class="menu-text">연수 프로그램(교사)</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./student.html"> 
+<span class="menu-text">체험 캠프(학생)</span></a>
+  </li>  
+</ul>
+<ul class="navbar-nav navbar-nav-scroll ms-auto">
+<li class="nav-item compact">
+    <a class="nav-link" href="https://sangillee.snu.ac.kr/"> <i class="bi bi-house-door" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:si_lee@snu.ac.kr"> <i class="bi bi-envelope-arrow-up" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/sangillee66"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+</div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav></header><!-- content --><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active"><h2 id="toc-title">목차</h2>
+   
+  <ul>
+<li><a href="#%EC%86%8C%EA%B0%9C" id="toc-소개" class="nav-link active" data-scroll-target="#%EC%86%8C%EA%B0%9C">소개</a></li>
+  <li>
+<a href="#ai%E3%86%8D%EB%94%94%EC%A7%80%ED%84%B8-%EC%A0%84%ED%99%98%EA%B3%BC-%EC%84%B8-%EA%B0%80%EC%A7%80-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EC%9D%98-%EC%9C%B5%ED%95%A9" id="toc-aiㆍ디지털-전환과-세-가지-사이언스의-융합" class="nav-link" data-scroll-target="#ai%E3%86%8D%EB%94%94%EC%A7%80%ED%84%B8-%EC%A0%84%ED%99%98%EA%B3%BC-%EC%84%B8-%EA%B0%80%EC%A7%80-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EC%9D%98-%EC%9C%B5%ED%95%A9"><span style="color:coral;font-size:0.85em">AIㆍ디지털 전환과 <br> 세 가지 사이언스의 융합</span></a>
+  <ul class="collapse">
+<li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1"></a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2"></a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3"></a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4"></a></li>
+  <li><a href="#%EC%A1%B4-%EC%8A%A4%EB%85%B8john-snow%EC%9D%98-%EC%BD%9C%EB%A0%88%EB%9D%BC-%EC%A7%80%EB%8F%841854" id="toc-존-스노john-snow의-콜레라-지도1854" class="nav-link" data-scroll-target="#%EC%A1%B4-%EC%8A%A4%EB%85%B8john-snow%EC%9D%98-%EC%BD%9C%EB%A0%88%EB%9D%BC-%EC%A7%80%EB%8F%841854">존 스노(John Snow)의 콜레라 지도(1854)</a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5"></a></li>
+  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6"></a></li>
+  <li><a href="#%EB%A3%A8%ED%81%AC-%EC%98%AC%EB%93%9C-%ED%86%A0%EB%A7%88%EC%8A%A4luke-auld-thomas" id="toc-루크-올드-토마스luke-auld-thomas" class="nav-link" data-scroll-target="#%EB%A3%A8%ED%81%AC-%EC%98%AC%EB%93%9C-%ED%86%A0%EB%A7%88%EC%8A%A4luke-auld-thomas">루크 올드-토마스(Luke Auld Thomas)</a></li>
+  <li><a href="#section-7" id="toc-section-7" class="nav-link" data-scroll-target="#section-7"></a></li>
+  <li><a href="#section-8" id="toc-section-8" class="nav-link" data-scroll-target="#section-8"></a></li>
+  <li><a href="#section-9" id="toc-section-9" class="nav-link" data-scroll-target="#section-9"></a></li>
+  </ul>
+</li>
+  <li>
+<a href="#%EC%98%A4%ED%94%88%EA%B3%B5%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EC%9D%98-%EC%8B%A4%EC%A0%9C" id="toc-오픈공간데이터사이언스의-실제" class="nav-link" data-scroll-target="#%EC%98%A4%ED%94%88%EA%B3%B5%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EC%9D%98-%EC%8B%A4%EC%A0%9C"><span style="color:coral;font-size:0.85em">오픈공간데이터사이언스의 실제</span></a>
+  <ul class="collapse">
+<li><a href="#%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0" id="toc-오픈데이터" class="nav-link" data-scroll-target="#%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0">오픈데이터</a></li>
+  <li><a href="#%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0-1" id="toc-오픈데이터-1" class="nav-link" data-scroll-target="#%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0-1">오픈데이터</a></li>
+  <li><a href="#section-10" id="toc-section-10" class="nav-link" data-scroll-target="#section-10"></a></li>
+  <li><a href="#%EC%A7%80%EB%A6%AC%EA%B3%B5%EA%B0%84%EC%A0%81-%EB%8D%B0%EC%9D%B4%ED%84%B0" id="toc-지리공간적-데이터" class="nav-link" data-scroll-target="#%EC%A7%80%EB%A6%AC%EA%B3%B5%EA%B0%84%EC%A0%81-%EB%8D%B0%EC%9D%B4%ED%84%B0"><strong>지리공간적 데이터</strong></a></li>
+  <li><a href="#d" id="toc-d" class="nav-link" data-scroll-target="#d">d</a></li>
+  <li><a href="#section-11" id="toc-section-11" class="nav-link" data-scroll-target="#section-11"></a></li>
+  <li><a href="#section-12" id="toc-section-12" class="nav-link" data-scroll-target="#section-12"></a></li>
+  <li><a href="#section-13" id="toc-section-13" class="nav-link" data-scroll-target="#section-13"></a></li>
+  <li><a href="#section-14" id="toc-section-14" class="nav-link" data-scroll-target="#section-14"></a></li>
+  <li><a href="#section-15" id="toc-section-15" class="nav-link" data-scroll-target="#section-15"></a></li>
+  <li><a href="#section-16" id="toc-section-16" class="nav-link" data-scroll-target="#section-16"></a></li>
+  <li><a href="#section-17" id="toc-section-17" class="nav-link" data-scroll-target="#section-17"></a></li>
+  <li><a href="#section-18" id="toc-section-18" class="nav-link" data-scroll-target="#section-18"></a></li>
+  <li><a href="#section-19" id="toc-section-19" class="nav-link" data-scroll-target="#section-19"></a></li>
+  <li><a href="#section-20" id="toc-section-20" class="nav-link" data-scroll-target="#section-20"></a></li>
+  <li><a href="#section-21" id="toc-section-21" class="nav-link" data-scroll-target="#section-21"></a></li>
+  <li><a href="#section-22" id="toc-section-22" class="nav-link" data-scroll-target="#section-22"></a></li>
+  <li><a href="#section-23" id="toc-section-23" class="nav-link" data-scroll-target="#section-23"></a></li>
+  <li><a href="#section-24" id="toc-section-24" class="nav-link" data-scroll-target="#section-24"></a></li>
+  <li><a href="#section-25" id="toc-section-25" class="nav-link" data-scroll-target="#section-25"></a></li>
+  <li><a href="#section-26" id="toc-section-26" class="nav-link" data-scroll-target="#section-26"></a></li>
+  </ul>
+</li>
+  <li>
+<a href="#%EC%98%A4%ED%94%88%EA%B3%B5%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EC%9D%98-%EC%8B%A4%EC%A0%9C-1" id="toc-오픈공간데이터사이언스의-실제-1" class="nav-link" data-scroll-target="#%EC%98%A4%ED%94%88%EA%B3%B5%EA%B0%84%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EC%9D%98-%EC%8B%A4%EC%A0%9C-1"><span style="color:coral;font-size:0.85em">오픈공간데이터사이언스의 실제</span></a>
+  <ul class="collapse">
+<li><a href="#%EC%98%A4%ED%94%88-%EB%8D%B0%EC%9D%B4%ED%84%B0" id="toc-오픈-데이터" class="nav-link" data-scroll-target="#%EC%98%A4%ED%94%88-%EB%8D%B0%EC%9D%B4%ED%84%B0">오픈 데이터</a></li>
+  <li><a href="#%EC%98%A4%ED%94%88-%EB%8D%B0%EC%9D%B4%ED%84%B0-1" id="toc-오픈-데이터-1" class="nav-link" data-scroll-target="#%EC%98%A4%ED%94%88-%EB%8D%B0%EC%9D%B4%ED%84%B0-1">오픈 데이터</a></li>
+  <li><a href="#%EA%B3%B5%EA%B0%84%EA%B3%BC%ED%95%99-%ED%95%98%EA%B8%B0" id="toc-공간과학-하기" class="nav-link" data-scroll-target="#%EA%B3%B5%EA%B0%84%EA%B3%BC%ED%95%99-%ED%95%98%EA%B8%B0">공간과학 하기</a></li>
+  <li><a href="#section-27" id="toc-section-27" class="nav-link" data-scroll-target="#section-27"></a></li>
+  <li><a href="#section-28" id="toc-section-28" class="nav-link" data-scroll-target="#section-28"></a></li>
+  <li><a href="#%EB%B2%A1%ED%84%B0-gis-%EC%98%A4%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98-%EA%B7%BC%EC%A0%91%EC%84%B1-%EB%B6%84%EC%84%9D" id="toc-벡터-gis-오퍼레이션-근접성-분석" class="nav-link" data-scroll-target="#%EB%B2%A1%ED%84%B0-gis-%EC%98%A4%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98-%EA%B7%BC%EC%A0%91%EC%84%B1-%EB%B6%84%EC%84%9D">벡터 GIS 오퍼레이션: 근접성 분석</a></li>
+  <li><a href="#section-29" id="toc-section-29" class="nav-link" data-scroll-target="#section-29"></a></li>
+  </ul>
+</li>
+  </ul><div class="quarto-alternate-formats"><h2>기타 형식</h2><ul><li><a href="lecture_2025_08_01.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
+<h1 class="title"><div class="line-block">
+<span style="color:coral;font-size:0.6em">지리공간정보 교육 프로그램</span><br><span style="font-size:0.9em">AIㆍ디지털 전환과 지리공간정보</span>
+</div></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">저자</div>
+    <div class="quarto-title-meta-contents">
+             <p><br> 이상일(서울대학교 지리교육과 교수) </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">공개</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">2025년 8월 1일</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header><section id="소개" class="level2"><h2 class="anchored" data-anchor-id="소개">소개</h2>
+<ul>
+<li>
+<p>서울대학교 사범대학 <a href="https://geoedu.snu.ac.kr/">지리교육과</a> 교수</p>
+<ul>
+<li><p><a href="https://sangillee.snu.ac.kr/" class="uri">https://sangillee.snu.ac.kr/</a></p></li>
+<li><p>지도학, GIS, 공간통계분석, 원격탐사, 인구지리학</p></li>
+</ul>
+</li>
+<li>
+<p>겸임</p>
+<ul>
+<li><p>서울대학교 사범대학 <a href="https://aied.snu.ac.kr/">AI융합교육학과</a> 겸임교수</p></li>
+<li><p>서울대학교 데이터사이언스대학원 <a href="https://gsds.snu.ac.kr/integrated/">융합전공 응용데이터사이언스</a> 겸임교수</p></li>
+<li><p>서울대학교 <a href="https://ls.snu.ac.kr/">학습과학연구소</a> AI기반교육연구센터 겸임연구원</p></li>
+</ul>
+</li>
+</ul></section><section id="aiㆍ디지털-전환과-세-가지-사이언스의-융합" class="level1"><h1><span style="color:coral;font-size:0.85em">AIㆍ디지털 전환과 <br> 세 가지 사이언스의 융합</span></h1>
+<section id="section" class="level2"><h2 class="anchored" data-anchor-id="section"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/1920px-ChatGPT-Logo.svg.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption><a href="https://en.wikipedia.org/wiki/ChatGPT" style="font-size:0.5em">https://en.wikipedia.org/wiki/ChatGPT</a></figcaption></figure>
+</div>
+</section><section id="section-1" class="level2"><h2 class="anchored" data-anchor-id="section-1"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-313591340.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section><section id="section-2" class="level2"><h2 class="anchored" data-anchor-id="section-2"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/clipboard-3656386038.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-2179833248.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://mokeya.tistory.com/76" style="font-size:0.5em">https://mokeya.tistory.com/76</a></figcaption></figure>
+</div>
+</div>
+</div>
+</div>
+</section><section id="section-3" class="level2"><h2 class="anchored" data-anchor-id="section-3"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/clipboard-2588991240.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-1890534398.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://www.openscience-maastricht.nl/the-open-science-mission/" style="font-size:0.5em">https://www.openscience-maastricht.nl/the-open-science-mission/</a></figcaption></figure>
+</div>
+</div>
+</div>
+</div>
+</section><section id="section-4" class="level2"><h2 class="anchored" data-anchor-id="section-4"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/clipboard-990944168.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/clipboard-3501198911.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section><section id="존-스노john-snow의-콜레라-지도1854" class="level2"><h2 class="anchored" data-anchor-id="존-스노john-snow의-콜레라-지도1854">존 스노(John Snow)의 콜레라 지도(1854)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/Snow-cholera-map-1.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://en.wikipedia.org/wiki/John_Snow" style="font-size:0.5em">https://en.wikipedia.org/wiki/John_Snow</a></figcaption></figure>
+</div>
+</section><section id="section-5" class="level2"><h2 class="anchored" data-anchor-id="section-5"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/Snow-cholera-map-2.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption><a href="https://en.wikipedia.org/wiki/John_Snow" style="font-size:0.5em">https://en.wikipedia.org/wiki/John_Snow</a></figcaption></figure>
+</div>
+</section><section id="section-6" class="level2"><h2 class="anchored" data-anchor-id="section-6"></h2>
+<iframe src="Snow Map.html" width="100%" height="1000px" style="border:none;"></iframe>
+</section><section id="루크-올드-토마스luke-auld-thomas" class="level2"><h2 class="anchored" data-anchor-id="루크-올드-토마스luke-auld-thomas">루크 올드-토마스(Luke Auld Thomas)</h2>
+<blockquote class="blockquote">
+<p>“29일(현지시각) BBC와 Newsweek 등 외신은 미국 툴레인대 고고학 연구팀이 멕시코 남동부 캄페체주에서 마야인들이 세운 피라미드와 원형극장, 도로, 운동장 등 6,764개의 건축물을 발견했다고 보도했다. 이러한 연구 결과는 영국 케임브리지대 고고학 학술지 ‘앤티쿼티’ 최신호에 실렸다.” (2024년 10월 29일)</p>
+</blockquote>
+<p><img src="images/clipboard-1281368905.png" class="img-fluid"></p>
+</section><section id="section-7" class="level2"><h2 class="anchored" data-anchor-id="section-7"></h2>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/EsLP44cMi7w?si=1lJEw4XJHl4QPXq-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</section><section id="section-8" class="level2"><h2 class="anchored" data-anchor-id="section-8"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[64,-5,34]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 62.1%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-1270623929.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/" style="font-size:0.5em">https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/</a></figcaption></figure>
+</div>
+</div>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 4.9%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-3760900325.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption><a href="https://r-spatial.org/book/" style="font-size:0.5em">https://r-spatial.org/book/</a></figcaption></figure>
+</div>
+</div>
+</div>
+</div>
+</section><section id="section-9" class="level2"><h2 class="anchored" data-anchor-id="section-9"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-2279692198.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://www.linkedin.com/posts/azghar-hussain-b7a649156_unleashing-the-power-of-geoai-transforming-activity-7192054559928639488-PDlO" style="font-size:0.3em">https://www.linkedin.com/posts/azghar-hussain-b7a649156_unleashing-the-power-of-geoai-transforming-activity-7192054559928639488-PDlO</a></figcaption></figure>
+</div>
+</section></section><section id="오픈공간데이터사이언스의-실제" class="level1"><h1><span style="color:coral;font-size:0.85em">오픈공간데이터사이언스의 실제</span></h1>
+<section id="오픈데이터" class="level2"><h2 class="anchored" data-anchor-id="오픈데이터">오픈데이터</h2>
+<ul>
+<li><p><a href="http://www.naturalearthdata.com/">Natural Earth Data</a></p></li>
+<li><p><a href="https://earthexplorer.usgs.gov/">USGS EarthExplorer</a></p></li>
+<li><p><a href="https://www.earthdata.nasa.gov/centers/sedac-daac">NASA Socioeconomic Data and Applications Center (SEDAC)</a></p></li>
+<li><p><a href="https://gisgeography.com/openstreetmap-download-osm-data/">OpenStreetMap (OSM) Data</a></p></li>
+<li><p><a href="https://stacspec.org/en">STAC (SpatioTemporal Asset Catalogs)</a></p></li>
+</ul></section><section id="오픈데이터-1" class="level2"><h2 class="anchored" data-anchor-id="오픈데이터-1">오픈데이터</h2>
+<ul>
+<li><p><a href="https://www.vworld.kr/">브이월드 디지털트윈국토</a>, 국토교통부</p></li>
+<li><p><a href="http://map.ngii.go.kr/mn/mainPage.do">국토정보플랫폼</a>, 국토지리정보원</p></li>
+<li><p><a href="https://www.data.go.kr/">공공데이터포털</a>, 행정안전부</p></li>
+<li><p><a href="http://sgis.kostat.go.kr/view/index">통계지리정보서비스</a>, 통계청</p></li>
+</ul></section><section id="section-10" class="level2"><h2 class="anchored" data-anchor-id="section-10"></h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist">
+<li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true">Old</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">New</a></li>
+</ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-3404369694.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://en.wikipedia.org/wiki/Population_density" style="font-size:0.5em">https://en.wikipedia.org/wiki/Population_density</a></figcaption></figure>
+</div>
+</div>
+<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-886164121.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section><section id="지리공간적-데이터" class="level2"><h2 class="anchored" data-anchor-id="지리공간적-데이터"><strong>지리공간적 데이터</strong></h2>
+<ul>
+<li>
+<p>벡터(vector) 데이터</p>
+<ul>
+<li><p>포인트, 라인, 폴리곤</p></li>
+<li><p>형상 데이터 + 속성 데이터</p></li>
+</ul>
+</li>
+<li>
+<p>래스터(raster) 데이터</p>
+<ul>
+<li><p>그리드 셀(grid cell)</p></li>
+<li><p>일체형</p></li>
+</ul>
+</li>
+</ul></section><section id="d" class="level2"><h2 class="anchored" data-anchor-id="d">d</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-501177376.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section><section id="section-11" class="level2"><h2 class="anchored" data-anchor-id="section-11"></h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist">
+<li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true">EPSG:4326</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false">EPSG: 54030</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-3" role="tab" aria-controls="tabset-2-3" aria-selected="false">EPSG: ???</a></li>
+</ul>
+<div class="tab-content">
+<div id="tabset-2-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-2-1-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-3176197551.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://earthobservatory.nasa.gov/features/NightLights" style="font-size:0.5em">https://earthobservatory.nasa.gov/features/NightLights</a></figcaption></figure>
+</div>
+</div>
+<div id="tabset-2-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-2-tab">
+<p><img src="images/clipboard-570478346.png" class="img-fluid"></p>
+</div>
+<div id="tabset-2-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-3-tab">
+<p><img src="images/clipboard-3866962389.png" class="img-fluid"><span style="font-size:0.4em">PROJ.4 문자열: +proj=robin +lon_0=150 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</span></p>
+</div>
+</div>
+</div>
+</section><section id="section-12" class="level2"><h2 class="anchored" data-anchor-id="section-12"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-3814750310.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-2806611500.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-402768516.jpeg" class="img-fluid"></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-364487088.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-2528161497.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-794024909.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section><section id="section-13" class="level2"><h2 class="anchored" data-anchor-id="section-13"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-1760436018.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://colorbrewer2.org/" style="font-size:0.5em">https://colorbrewer2.org/</a></figcaption></figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-318236472.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-4048727015.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section><section id="section-14" class="level2"><h2 class="anchored" data-anchor-id="section-14"></h2>
+<p><img src="images/clipboard-2624998369.png" class="img-fluid"></p>
+</section><section id="section-15" class="level2"><h2 class="anchored" data-anchor-id="section-15"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-2313727414.jpeg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-2000084540.jpeg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-2948073899.jpeg" class="img-fluid"></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-1868868499.jpeg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-3782405139.jpeg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-825423489.jpeg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section><section id="section-16" class="level2"><h2 class="anchored" data-anchor-id="section-16"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-3015490615.jpeg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-831764398.jpeg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-587255044.jpeg" class="img-fluid"></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-489605013.jpeg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-3473970319.jpeg" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-3864052789.jpeg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section><section id="section-17" class="level2"><h2 class="anchored" data-anchor-id="section-17"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-3031997386.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section><section id="section-18" class="level2"><h2 class="anchored" data-anchor-id="section-18"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/bands.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://gsp.humboldt.edu/olm/Courses/GSP_216/lessons/composites.html" style="font-size:0.5em">https://gsp.humboldt.edu/olm/Courses/GSP_216/lessons/composites.html</a></figcaption></figure>
+</div>
+</section><section id="section-19" class="level2"><h2 class="anchored" data-anchor-id="section-19"></h2>
+<p><img src="images/clipboard-4079043681.jpeg" class="img-fluid"></p>
+</section><section id="section-20" class="level2"><h2 class="anchored" data-anchor-id="section-20"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-4165131388.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section><section id="section-21" class="level2"><h2 class="anchored" data-anchor-id="section-21"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/IDIP_4e_Figure_10_17_L.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section><section id="section-22" class="level2"><h2 class="anchored" data-anchor-id="section-22"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-2641525290.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section><section id="section-23" class="level2"><h2 class="anchored" data-anchor-id="section-23"></h2>
+<p><img src="images/clipboard-779750977.png" class="img-fluid"></p>
+</section><section id="section-24" class="level2"><h2 class="anchored" data-anchor-id="section-24"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-3717655883.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-2105802138.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-2983629726.png" class="img-fluid"></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-2323674267.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-1281700759.png" class="img-fluid"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img src="images/clipboard-3517218905.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section><section id="section-25" class="level2" data-visibility="hidden"><h2 data-visibility="hidden" class="anchored" data-anchor-id="section-25"></h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist">
+<li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-3-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-1" role="tab" aria-controls="tabset-3-1" aria-selected="true">Old</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" id="tabset-3-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-2" role="tab" aria-controls="tabset-3-2" aria-selected="false">New</a></li>
+</ul>
+<div class="tab-content">
+<div id="tabset-3-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-3-1-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-3404369694.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://en.wikipedia.org/wiki/Population_density" style="font-size:0.5em">https://en.wikipedia.org/wiki/Population_density</a></figcaption></figure>
+</div>
+</div>
+<div id="tabset-3-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-3-2-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-886164121.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section><section id="section-26" class="level2"><h2 class="anchored" data-anchor-id="section-26"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[64,-5,34]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 62.1%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-1270623929.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/" style="font-size:0.5em">https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/</a></figcaption></figure>
+</div>
+</div>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 4.9%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-3760900325.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption><a href="https://r-spatial.org/book/" style="font-size:0.5em">https://r-spatial.org/book/</a></figcaption></figure>
+</div>
+</div>
+</div>
+</div>
+</section></section><section id="오픈공간데이터사이언스의-실제-1" class="level1"><h1><span style="color:coral;font-size:0.85em">오픈공간데이터사이언스의 실제</span></h1>
+<section id="오픈-데이터" class="level2"><h2 class="anchored" data-anchor-id="오픈-데이터">오픈 데이터</h2>
+</section><section id="오픈-데이터-1" class="level2"><h2 class="anchored" data-anchor-id="오픈-데이터-1">오픈 데이터</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-2210510252.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</section><section id="공간과학-하기" class="level2"><h2 class="anchored" data-anchor-id="공간과학-하기">공간과학 하기</h2>
+<ul>
+<li><p>소프트웨어: <a href="https://qgis.org/">QGIS</a></p></li>
+<li><p>코드: <a href="https://www.r-project.org/">R</a></p></li>
+</ul></section><section id="section-27" class="level2"><h2 class="anchored" data-anchor-id="section-27"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/QGIS.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption><a href="https://qgis.org/en/site/" style="font-size:0.5em">https://qgis.org/en/site/</a></figcaption></figure>
+</div>
+</section><section id="section-28" class="level2"><h2 class="anchored" data-anchor-id="section-28"></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="3">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-160595566.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://r-spatial.github.io/sf/" style="font-size:0.5em">https://r-spatial.github.io/sf/</a></figcaption></figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-703341819.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://rspatial.github.io/terra/" style="font-size:0.5em">https://rspatial.github.io/terra/</a></figcaption></figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/clipboard-2202101950.png" class="img-fluid figure-img"></p>
+<figcaption><a href="https://r-tmap.github.io/tmap/" style="font-size:0.5em">https://r-tmap.github.io/tmap/</a></figcaption></figure>
+</div>
+</div>
+</div>
+</div>
+</section><section id="벡터-gis-오퍼레이션-근접성-분석" class="level2"><h2 class="anchored" data-anchor-id="벡터-gis-오퍼레이션-근접성-분석">벡터 GIS 오퍼레이션: 근접성 분석</h2>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs" role="tablist">
+<li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-4-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-1" role="tab" aria-controls="tabset-4-1" aria-selected="true">준비</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-2" role="tab" aria-controls="tabset-4-2" aria-selected="false">포인트 버퍼링</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-3" role="tab" aria-controls="tabset-4-3" aria-selected="false">지도</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-4" role="tab" aria-controls="tabset-4-4" aria-selected="false">티센 폴리곤</a></li>
+<li class="nav-item" role="presentation"><a class="nav-link" id="tabset-4-5-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-5" role="tab" aria-controls="tabset-4-5" aria-selected="false">지도</a></li>
+</ul>
+<div class="tab-content">
+<div id="tabset-4-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-4-1-tab">
+<div class="cell">
+<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://tidyverse.tidyverse.org">tidyverse</a></span><span class="op">)</span></span>
+<span><span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://r-spatial.github.io/sf/">sf</a></span><span class="op">)</span></span>
+<span><span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/r-tmap/tmap">tmap</a></span><span class="op">)</span></span>
+<span></span>
+<span><span class="va">seoul_subst</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://r-spatial.github.io/sf/reference/st_read.html">st_read</a></span><span class="op">(</span><span class="st">"seoul_subst.shp"</span>, options <span class="op">=</span> <span class="st">"ENCODING=CP949"</span><span class="op">)</span></span>
+<span><span class="va">seoul_starbucks</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://r-spatial.github.io/sf/reference/st_read.html">st_read</a></span><span class="op">(</span><span class="st">"starbucks_seoul.shp"</span>, options <span class="op">=</span> <span class="st">"ENCODING=CP949"</span><span class="op">)</span></span>
+<span><span class="va">seoul_si</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://r-spatial.github.io/sf/reference/st_read.html">st_read</a></span><span class="op">(</span><span class="st">"SEOUL_SIDO_2023_2Q.shp"</span>, options <span class="op">=</span> <span class="st">"ENCODING=CP949"</span><span class="op">)</span></span></code><button title="클립보드 복사" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</div>
+<div id="tabset-4-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-4-2-tab">
+<div class="cell">
+<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="va">seoul_subst</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://r-spatial.github.io/sf/reference/geos_unary.html">st_buffer</a></span><span class="op">(</span>dist <span class="op">=</span> <span class="fl">500</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://r-spatial.github.io/sf/reference/geos_combine.html">st_union</a></span><span class="op">(</span><span class="op">)</span> <span class="op">-&gt;</span> <span class="va">seoul_subst_500</span></span></code><button title="클립보드 복사" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</div>
+<div id="tabset-4-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-4-3-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/벡터_버퍼링_포인트.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1000"></p>
+</figure>
+</div>
+</div>
+<div id="tabset-4-4" class="tab-pane" role="tabpanel" aria-labelledby="tabset-4-4-tab">
+<div class="cell">
+<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="va">snu_create_thiessen</span> <span class="op">&lt;-</span> <span class="kw">function</span><span class="op">(</span><span class="va">point</span>, <span class="va">bound_poly</span><span class="op">)</span><span class="op">{</span></span>
+<span>  <span class="va">point</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://r-spatial.github.io/sf/reference/geos_combine.html">st_union</a></span><span class="op">(</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://r-spatial.github.io/sf/reference/geos_unary.html">st_voronoi</a></span><span class="op">(</span><span class="fu"><a href="https://r-spatial.github.io/sf/reference/st_as_sfc.html">st_as_sfc</a></span><span class="op">(</span><span class="fu"><a href="https://r-spatial.github.io/sf/reference/st_bbox.html">st_bbox</a></span><span class="op">(</span><span class="va">bound_poly</span><span class="op">)</span><span class="op">)</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://r-spatial.github.io/sf/reference/st_cast.html">st_cast</a></span><span class="op">(</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://r-spatial.github.io/sf/reference/geos_binary_ops.html">st_intersection</a></span><span class="op">(</span><span class="va">bound_poly</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://r-spatial.github.io/sf/reference/st_as_sf.html">st_as_sf</a></span><span class="op">(</span><span class="op">)</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu"><a href="https://r-spatial.github.io/sf/reference/st_cast.html">st_cast</a></span><span class="op">(</span><span class="st">"MULTIPOLYGON"</span><span class="op">)</span></span>
+<span><span class="op">}</span></span>
+<span><span class="va">seoul_starbucks</span> <span class="op">|&gt;</span> </span>
+<span>  <span class="fu">snu_create_thiessen</span><span class="op">(</span><span class="va">seoul_si</span><span class="op">)</span> <span class="op">-&gt;</span> <span class="va">starbucks_seoul_thiessen</span></span></code><button title="클립보드 복사" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</div>
+<div id="tabset-4-5" class="tab-pane" role="tabpanel" aria-labelledby="tabset-4-5-tab">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure"><p><img src="images/벡터_티센폴리곤.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="1000"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section><section id="section-29" class="level2"><h2 class="anchored" data-anchor-id="section-29"></h2>
+<iframe src="https://sangillee.shinyapps.io/ThiessenPolygon/" width="100%" height="900px" style="border:none;"></iframe>
+<p><a href="https://sangillee.shinyapps.io/ThiessenPolygon/" style="font-size:0.4em">https://sangillee.shinyapps.io/ThiessenPolygon/</a></p>
+
+
+</section></section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "복사완료!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "복사완료!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
