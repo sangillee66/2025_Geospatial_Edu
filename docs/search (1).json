@@ -1,0 +1,1283 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "",
+    "text": "본 프로그램은 중등 지리 교사의 지리공간정보를 활용한 AIㆍ디지털 역량을 실질적으로 함양하고, 그것을 활용한 구체적인 수업 혁신 방안을 모색하는데 주안점이 있다. 교사들은 지리공간정보 교수-학습 역량 강화 연수를 통해 지리공간정보에 기반한 인터랙티브 교수-학습 웹 앱을 디자인 및 제작하는 역량을 함양한다. 학생들은 지리공간정보 체험 캠프를 통해 LiDAR 및 인터랙티브 교수-학습 웹 앱을 활용한 수업에 참여함으로써 지리공간정보의 중요성을 구체적으로 체험해보는 기회를 갖는다."
+  },
+  {
+    "objectID": "index.html#프로그램의-목표",
+    "href": "index.html#프로그램의-목표",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "",
+    "text": "본 프로그램은 중등 지리 교사의 지리공간정보를 활용한 AIㆍ디지털 역량을 실질적으로 함양하고, 그것을 활용한 구체적인 수업 혁신 방안을 모색하는데 주안점이 있다. 교사들은 지리공간정보 교수-학습 역량 강화 연수를 통해 지리공간정보에 기반한 인터랙티브 교수-학습 웹 앱을 디자인 및 개발하는 역량을 함양한다. 학생들은 지리공간정보 체험 캠프를 통해 LiDAR 및 인터랙티브 교수-학습 웹 앱을 활용한 수업에 참여함으로써 지리공간정보의 중요성을 구체적으로 체험해보는 기회를 갖는다."
+  },
+  {
+    "objectID": "index.html#프로그램의-개요",
+    "href": "index.html#프로그램의-개요",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "프로그램의 개요",
+    "text": "프로그램의 개요\n\n지리공간정보 교수-학습 역량 강화 연수\n\n지리공간정보와 AIㆍ디지털 기술에 대한 이론 강의\n디지털 저작 도구인 Quarto와 오픈소스 프로그래밍 언어인 R에 대한 기본 실습\n인터랙티브 교수-학습 웹 앱의 디자인 및 개발 실습: 학교 현장과 양성 기관의 협업\n\n\n\n지리공간정보 체험 캠프\n\n지리공간정보와 AIㆍ디지털 기술에 대한 이론 강의\n드론을 활용한 LiDAR 데이터 구득 및 분석에 대한 체험\n원격탐사 데이터의 탐색 및 분석 체험과 인터랙티브 교수-학습 웹 앱을 활용한 수업 활동 체험"
+  },
+  {
+    "objectID": "index.html#진행",
+    "href": "index.html#진행",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "진행",
+    "text": "진행\n\n프로그램 총괄 및 이론 강의\n\n이상일 교수 (서울대학교 지리교육과)\n\n프로그램 평가\n\n이소영 교수 (가톨릭관동대학교 지리교육과)\n교사들의 TPACK 함양을 위한 지리공간정보 교수-학습 프로그램 개발\n\n인터랙티브 교수-학습 웹 앱 실습\n\n김세창(서울대학교 지리교육과 석사)\n김우형(서울대학교 지리교육과 석사과정)\n전혜민(서울대학교 지리교육과 석사과정)\n\n드론 및 LiDAR 실습\n\n이하은(서울대학교 지리교육과 박사과정)"
+  },
+  {
+    "objectID": "index.html#주관",
+    "href": "index.html#주관",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "주관",
+    "text": "주관\n\nAIEDAP (https://aiedap.or.kr/)\n서울대학교 학습과학연구소 미래교육혁신센터"
+  },
+  {
+    "objectID": "index.html#일시-및-장소",
+    "href": "index.html#일시-및-장소",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "일시 및 장소",
+    "text": "일시 및 장소\n\n지리공간정보 교수-학습 역량 강화 연수\n\n2025년 7월 28일(월)~29일(화) 10:00~17:00\n서울대학교 사범대학 10동 103호\n\n\n\n지리공간정보 체험 캠프\n\n2025년 8월 1일(금) 10:00~17:00\n서울대학교 사범대학 10동 103호"
+  },
+  {
+    "objectID": "index.html#참가-혜택",
+    "href": "index.html#참가-혜택",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "참가 혜택",
+    "text": "참가 혜택\n\n사회 교과 예비교사에게 필요한 AIㆍ디지털 역량 습득 및 관련 수업 설계 경험 획득\n프로그램 수료증 발급(출석율 90% 이상 이수시)\n학업장려금 15만원 지급(출석률 90% 이상 이수시)"
+  },
+  {
+    "objectID": "index.html#프로그램-내용",
+    "href": "index.html#프로그램-내용",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "프로그램 내용",
+    "text": "프로그램 내용\n\n\n\n\n\n\n\n\n차시\n교육 시간\n교육 내용\n\n\n\n\n사전학습\n온라인 강의(3시간)\n\n주제: 사회과 수업에서 활용 가능한 AI 및 디지털 도구 소개\n\n구성: 녹화 영상 3편(이론 1편, 실습 2편), 총 5시간\n\n이론: 세 가지 사이언스(약 1시간)\n실습\n\n실습 1: 최신 지리공간기술로서의 구글 어스 스튜디오(약 2시간)\n실습 2: R을 통한 데이터사이언스 프로세스(약 2시간)\n\n\n\n\nDay 1\n8월 5일(월) 14:00~17:00\n\n주제: AIㆍ디지털 역량과 사회 교과\n강의 내용\n\nAIㆍ디지털 사회의 도래와 사회 교과\nAIㆍ디지털 커뮤니케이션 역량과 도구\n\n실습 내용\n\nAIㆍ디지털 커뮤니케이션 도구로서의 Quarto 입문\nQuarto를 활용한 대시보드 만들기\n\n\n\n\nDay 2\n8월 6일(화) 14:00~17:00\n\n주제: 데이터의 수집 및 정련화\n강의 내용\n\n데이터의 수집 방법(웹스크레이핑과 오픈 API 활용)\n데이터 불러오기 및 정리하기의 개념과 기법\n문제의 현황 파악\n\n실습 내용\n\nR을 활용한 오픈 API 기반 데이터 수집\nR을 활용한 데이터 불러오기 및 정리하기\n\n\n\n\nDay 3\n8월 7일(수) 14:00~17:00\n\n주제: 탐색적 데이터 분석\n강의 내용\n\n탐색적 데이터 분석의 원리와 절차\n데이터 변형 및 시각화의 개념과 기법\n문제의 이해 및 수업 소재 선정\n\n실습 내용\n\nR을 활용한 데이터의 변형 및 시각화\nR을 활용한 탐색적 데이터 분석\n\n\n\n\nDay 4\n8월 8일(목) 14:00~17:00\n\n주제: 고급 시각화와 교수-학습 대시보드의 설계\n강의 내용\n\n인터랙티브 시각화의 종류\n지리공간적 시각화의 개념과 기법\n탐구 수업을 위한 교수-학습 대시보드의 설계\n\n실습 내용\n\nR을 활용한 인터랙티브 및 지리공간적 시각화\nQuarto를 활용한 대시보드의 설계\n\n\n\n\nDay 5\n8월 9일(금) 14:00~17:00\n\n주제: 고급 인터랙티브 기능과 디지털 교수-학습 대시보드의 제작 및 공유\n강의 내용\n\n고급 인터랙티브 기능\n탐구 수업을 위한 교수-학습 대시보드의 제작\n웹 배포를 통한 공유\n\n실습 내용\n\nQuarto를 활용한 대시보드의 제작\nQuarto Pub을 통한 웹 배포"
+  },
+  {
+    "objectID": "teacher.html",
+    "href": "teacher.html",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "",
+    "text": "R과 RStudio 설치\nR의 기초\n데이터 시각화"
+  },
+  {
+    "objectID": "teacher.html#프로그램의-목표",
+    "href": "teacher.html#프로그램의-목표",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "",
+    "text": "본 워크숍은 사범대학 재학 중인 중등 사회과(지리) 예비 교원들의 AIㆍ디지털 역량을 실질적으로 함양하는 것을 목적으로 한다. 이를 위해 온라인 저작도구 쿼토(Quarto)와 오픈소스 프로그래밍 언어 R을 학습한다. 궁극적으로 전통적인 교수-학습 자료를 넘어 현장에서 적용 가능한 인터랙티브 교수-학습 자료를 제작하는 역량을 기르고자 한다."
+  },
+  {
+    "objectID": "teacher.html#프로그램의-개요",
+    "href": "teacher.html#프로그램의-개요",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "프로그램의 개요",
+    "text": "프로그램의 개요\n\n사회 교과의 예비 교원이 교육 현장에서 활용할 수 있는 AI 디지털 기술을 습득하고 이를 기반으로 자신만의 교수-학습 도구를 개발하고 활용하는 역량을 기르는 것을 목적으로 함.\n교육프로그램은 사전 학습 5시간과 본학습 15시간으로 구성됨.\n사전학습을 통해 기초적인 프로그래밍 지식을 습득하고, 본 수업에서 이를 활용하여 교수-학습 도구를 개발하는 실습이 이루어짐.\n사회 교과 예비교원이 유용하게 활용할 수 있는 디지털 지리공간기술, 오픈 API, 자연어 처리, 텍스트 마이닝, 데이터 탐색 및 머신러닝, 지리공간적 시각화, 디지털 대시보드 등에 대한 개념 강의 및 실습을 중심으로 이루어짐.\n최종적으로 프로그래밍을 활용해 사회과 수업에서 활용할 수 있는 인터랙티브 교수-학습 자료를 개발하고, 이를 활용한 수업을 설계하는 과제를 부여함."
+  },
+  {
+    "objectID": "teacher.html#진행",
+    "href": "teacher.html#진행",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "진행",
+    "text": "진행\n\n강의\n\n이상일 교수(서울대학교 사범대학 지리교육과)\n\n실습 디자인 및 진행\n\n김우형(서울대학교 지리교육과 석사과정)\n김세창(서울대학교 지리교육과 석사)\n\n실습 보조\n\n전혜민(서울대학교 지리교육과 석사과정)\n김주연(서울대학교 지리교육과 박사과정)"
+  },
+  {
+    "objectID": "teacher.html#주관",
+    "href": "teacher.html#주관",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "주관",
+    "text": "주관\n\nAIEDAP (https://aiedap.or.kr/)\n서울대학교 학습과학연구소 미래교육혁신센터"
+  },
+  {
+    "objectID": "teacher.html#일시-및-장소",
+    "href": "teacher.html#일시-및-장소",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "일시 및 장소",
+    "text": "일시 및 장소\n\n2024년 8월 5일(월) ~ 9일(금) 오후 2~5시 총 5일\n서울대학교 사범대학 10동 103호"
+  },
+  {
+    "objectID": "teacher.html#참가-혜택",
+    "href": "teacher.html#참가-혜택",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "참가 혜택",
+    "text": "참가 혜택\n\n사회 교과 예비교사에게 필요한 AIㆍ디지털 역량 습득 및 관련 수업 설계 경험 획득\n프로그램 수료증 발급(출석율 90% 이상 이수시)\n학업장려금 15만원 지급(출석률 90% 이상 이수시)"
+  },
+  {
+    "objectID": "teacher.html#프로그램-내용",
+    "href": "teacher.html#프로그램-내용",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "프로그램 내용",
+    "text": "프로그램 내용\n\n\n\n\n\n\n\n\n차시\n교육 시간\n교육 내용\n\n\n\n\n사전학습\n온라인 강의(3시간)\n\n주제: 사회과 수업에서 활용 가능한 AI 및 디지털 도구 소개\n\n구성: 녹화 영상 3편(이론 1편, 실습 2편), 총 5시간\n\n이론: 세 가지 사이언스(약 1시간)\n실습\n\n실습 1: 최신 지리공간기술로서의 구글 어스 스튜디오(약 2시간)\n실습 2: R을 통한 데이터사이언스 프로세스(약 2시간)\n\n\n\n\nDay 1\n8월 5일(월) 14:00~17:00\n\n주제: AIㆍ디지털 역량과 사회 교과\n강의 내용\n\nAIㆍ디지털 사회의 도래와 사회 교과\nAIㆍ디지털 커뮤니케이션 역량과 도구\n\n실습 내용\n\nAIㆍ디지털 커뮤니케이션 도구로서의 Quarto 입문\nQuarto를 활용한 대시보드 만들기\n\n\n\n\nDay 2\n8월 6일(화) 14:00~17:00\n\n주제: 데이터의 수집 및 정련화\n강의 내용\n\n데이터의 수집 방법(웹스크레이핑과 오픈 API 활용)\n데이터 불러오기 및 정리하기의 개념과 기법\n문제의 현황 파악\n\n실습 내용\n\nR을 활용한 오픈 API 기반 데이터 수집\nR을 활용한 데이터 불러오기 및 정리하기\n\n\n\n\nDay 3\n8월 7일(수) 14:00~17:00\n\n주제: 탐색적 데이터 분석\n강의 내용\n\n탐색적 데이터 분석의 원리와 절차\n데이터 변형 및 시각화의 개념과 기법\n문제의 이해 및 수업 소재 선정\n\n실습 내용\n\nR을 활용한 데이터의 변형 및 시각화\nR을 활용한 탐색적 데이터 분석\n\n\n\n\nDay 4\n8월 8일(목) 14:00~17:00\n\n주제: 고급 시각화와 교수-학습 대시보드의 설계\n강의 내용\n\n인터랙티브 시각화의 종류\n지리공간적 시각화의 개념과 기법\n탐구 수업을 위한 교수-학습 대시보드의 설계\n\n실습 내용\n\nR을 활용한 인터랙티브 및 지리공간적 시각화\nQuarto를 활용한 대시보드의 설계\n\n\n\n\nDay 5\n8월 9일(금) 14:00~17:00\n\n주제: 고급 인터랙티브 기능과 디지털 교수-학습 대시보드의 제작 및 공유\n강의 내용\n\n고급 인터랙티브 기능\n탐구 수업을 위한 교수-학습 대시보드의 제작\n웹 배포를 통한 공유\n\n실습 내용\n\nQuarto를 활용한 대시보드의 제작\nQuarto Pub을 통한 웹 배포"
+  },
+  {
+    "objectID": "student.html",
+    "href": "student.html",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "",
+    "text": "시간\n내용\n담당\n비고\n\n\n\n\n10:00~12:00\nAIㆍ디지털 전환과 지리공간정보\n이상일\n이론\n\n\n12:00~13:00\n점심 식사\n\n\n\n\n13:00~15:00\n드론을 활용한 LiDAR 데이터 구득 및 분석 체험\n이하은\n실습\n\n\n15:00~17:00\n인터랙티브 지리공간 교수-학습 웹 앱을 활용한 데이터 탐색 및 분석 과정 체험\n김세창, 김우형\n탐구활동"
+  },
+  {
+    "objectID": "student.html#프로그램의-목표",
+    "href": "student.html#프로그램의-목표",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "",
+    "text": "본 워크숍은 사범대학 재학 중인 중등 사회과(지리) 예비 교원들의 AIㆍ디지털 역량을 실질적으로 함양하는 것을 목적으로 한다. 이를 위해 온라인 저작도구 쿼토(Quarto)와 오픈소스 프로그래밍 언어 R을 학습한다. 궁극적으로 전통적인 교수-학습 자료를 넘어 현장에서 적용 가능한 인터랙티브 교수-학습 자료를 제작하는 역량을 기르고자 한다."
+  },
+  {
+    "objectID": "student.html#프로그램의-개요",
+    "href": "student.html#프로그램의-개요",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "프로그램의 개요",
+    "text": "프로그램의 개요\n\n사회 교과의 예비 교원이 교육 현장에서 활용할 수 있는 AI 디지털 기술을 습득하고 이를 기반으로 자신만의 교수-학습 도구를 개발하고 활용하는 역량을 기르는 것을 목적으로 함.\n교육프로그램은 사전 학습 5시간과 본학습 15시간으로 구성됨.\n사전학습을 통해 기초적인 프로그래밍 지식을 습득하고, 본 수업에서 이를 활용하여 교수-학습 도구를 개발하는 실습이 이루어짐.\n사회 교과 예비교원이 유용하게 활용할 수 있는 디지털 지리공간기술, 오픈 API, 자연어 처리, 텍스트 마이닝, 데이터 탐색 및 머신러닝, 지리공간적 시각화, 디지털 대시보드 등에 대한 개념 강의 및 실습을 중심으로 이루어짐.\n최종적으로 프로그래밍을 활용해 사회과 수업에서 활용할 수 있는 인터랙티브 교수-학습 자료를 개발하고, 이를 활용한 수업을 설계하는 과제를 부여함."
+  },
+  {
+    "objectID": "student.html#진행",
+    "href": "student.html#진행",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "진행",
+    "text": "진행\n\n강의\n\n이상일 교수(서울대학교 사범대학 지리교육과)\n\n실습 디자인 및 진행\n\n김우형(서울대학교 지리교육과 석사과정)\n김세창(서울대학교 지리교육과 석사)\n\n실습 보조\n\n전혜민(서울대학교 지리교육과 석사과정)\n김주연(서울대학교 지리교육과 박사과정)"
+  },
+  {
+    "objectID": "student.html#주관",
+    "href": "student.html#주관",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "주관",
+    "text": "주관\n\nAIEDAP (https://aiedap.or.kr/)\n서울대학교 학습과학연구소 미래교육혁신센터"
+  },
+  {
+    "objectID": "student.html#일시-및-장소",
+    "href": "student.html#일시-및-장소",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "일시 및 장소",
+    "text": "일시 및 장소\n\n2024년 8월 5일(월) ~ 9일(금) 오후 2~5시 총 5일\n서울대학교 사범대학 10동 103호"
+  },
+  {
+    "objectID": "student.html#참가-혜택",
+    "href": "student.html#참가-혜택",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "참가 혜택",
+    "text": "참가 혜택\n\n사회 교과 예비교사에게 필요한 AIㆍ디지털 역량 습득 및 관련 수업 설계 경험 획득\n프로그램 수료증 발급(출석율 90% 이상 이수시)\n학업장려금 15만원 지급(출석률 90% 이상 이수시)"
+  },
+  {
+    "objectID": "student.html#프로그램-내용",
+    "href": "student.html#프로그램-내용",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "프로그램 내용",
+    "text": "프로그램 내용\n\n\n\n\n\n\n\n\n차시\n교육 시간\n교육 내용\n\n\n\n\n사전학습\n온라인 강의(3시간)\n\n주제: 사회과 수업에서 활용 가능한 AI 및 디지털 도구 소개\n\n구성: 녹화 영상 3편(이론 1편, 실습 2편), 총 5시간\n\n이론: 세 가지 사이언스(약 1시간)\n실습\n\n실습 1: 최신 지리공간기술로서의 구글 어스 스튜디오(약 2시간)\n실습 2: R을 통한 데이터사이언스 프로세스(약 2시간)\n\n\n\n\nDay 1\n8월 5일(월) 14:00~17:00\n\n주제: AIㆍ디지털 역량과 사회 교과\n강의 내용\n\nAIㆍ디지털 사회의 도래와 사회 교과\nAIㆍ디지털 커뮤니케이션 역량과 도구\n\n실습 내용\n\nAIㆍ디지털 커뮤니케이션 도구로서의 Quarto 입문\nQuarto를 활용한 대시보드 만들기\n\n\n\n\nDay 2\n8월 6일(화) 14:00~17:00\n\n주제: 데이터의 수집 및 정련화\n강의 내용\n\n데이터의 수집 방법(웹스크레이핑과 오픈 API 활용)\n데이터 불러오기 및 정리하기의 개념과 기법\n문제의 현황 파악\n\n실습 내용\n\nR을 활용한 오픈 API 기반 데이터 수집\nR을 활용한 데이터 불러오기 및 정리하기\n\n\n\n\nDay 3\n8월 7일(수) 14:00~17:00\n\n주제: 탐색적 데이터 분석\n강의 내용\n\n탐색적 데이터 분석의 원리와 절차\n데이터 변형 및 시각화의 개념과 기법\n문제의 이해 및 수업 소재 선정\n\n실습 내용\n\nR을 활용한 데이터의 변형 및 시각화\nR을 활용한 탐색적 데이터 분석\n\n\n\n\nDay 4\n8월 8일(목) 14:00~17:00\n\n주제: 고급 시각화와 교수-학습 대시보드의 설계\n강의 내용\n\n인터랙티브 시각화의 종류\n지리공간적 시각화의 개념과 기법\n탐구 수업을 위한 교수-학습 대시보드의 설계\n\n실습 내용\n\nR을 활용한 인터랙티브 및 지리공간적 시각화\nQuarto를 활용한 대시보드의 설계\n\n\n\n\nDay 5\n8월 9일(금) 14:00~17:00\n\n주제: 고급 인터랙티브 기능과 디지털 교수-학습 대시보드의 제작 및 공유\n강의 내용\n\n고급 인터랙티브 기능\n탐구 수업을 위한 교수-학습 대시보드의 제작\n웹 배포를 통한 공유\n\n실습 내용\n\nQuarto를 활용한 대시보드의 제작\nQuarto Pub을 통한 웹 배포"
+  },
+  {
+    "objectID": "index.html#후원",
+    "href": "index.html#후원",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "후원",
+    "text": "후원\n\n국토지리정보원"
+  },
+  {
+    "objectID": "index.html#참가자",
+    "href": "index.html#참가자",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "참가자",
+    "text": "참가자\n\n교사: 수도권 소재 고등학교 지리 교사 7명\n학생: 수도권 소재 고등학교 학생 15명"
+  },
+  {
+    "objectID": "LAB_0_R과_RStudio_설치하기.html",
+    "href": "LAB_0_R과_RStudio_설치하기.html",
+    "title": "R & RStudio 설치",
+    "section": "",
+    "text": "1 R 설치하기\n\nR은 통계 계산과 데이터 시각화를 위한 오픈소스 프로그래밍 언어이다. 오픈 소스 언어이기 때문에 누구나 무료로 자유롭게 다운로드하고 사용할 수 있으며, 다양한 통계 및 머신러닝 알고리즘과 강력한 시각화 기능을 지원하고 있어 데이터 사이언티스트에게는 매우 유용한 언어이다.\n\n\n\n\n\n\nR 설치 전 필수 확인 사항\n\n\n\nR은 실행과정에서 폴더 경로에 한글이 포함된 경우 오류가 자주 발생한다. 따라서 폴더 경로에 한글이 들어가지 않도록 주의해야 한다. 운영체제로 Windows를 사용하는 경우 사용자 계정 이름이 한국어로 설정되어 있는 경우 반드시 영어로 변경해주어야 하며, Windows와 Mac 사용자 모두 앞으로 만들 프로젝트 폴더와 데이터, 스크립트 파일 이름을 영어로 설정하는 것을 추천한다.\n\n사용자 계정 이름 확인: Windows 설정 &gt; 계정 &gt; 사용자 정보\n\n\n\n만약 사용자 계정 이름이 한국어로 설정되어 있다면 영어로 된 새로운 윈도우 사용자 계정을 만들어야 함\n\n\n\nR은 CRAN에 접속하여 본인의 운영체제와 최신 버전을 다운받을 수 있다. 하지만 실습 과정 중 사용할 Shiny 패키지의 호환성 문제로 4.3.3 이하 버전의 R을 사용하여야 한다. 따라서 카카오톡으로 전달드린 R 설치 파일을 실행하여 R 설치를 완료해주길 바란다. 별도의 옵션 수정 없이 ‘다음’ 버튼을 끝까지 누르면 된다.\n설치가 완료된 R을 실행하면 아래와 같은 창이 뜰 것이다. 정상적으로 실행된다면 문제없이 R 설치가 완료된 것이다.\n\n\n\n2 RStudio 설치하기\n\nRStudio는 R 프로그래밍 언어를 위한 통합 개발 환경(Integrated Development Environment, IDE)의 하나로, R을 보다 효율적으로 활용할 수 있도록 다양한 기능을 제공한다. R을 사용할 수 있는 IDE는 다양하지만 대부분의 R 사용자들은 RStudio를 사용하고 있으며, 실습도 RStudio를 활용해 진행할 예정이므로 RStudio를 통해 R 프로그래밍을 하는 것을 권장한다.\nRStudio를 설치하는 방법은 다음과 같다.\n\nhttps://posit.co/download/rstudio-desktop/에 접속하여 RStudio 설치파일 다운로드\n설치파일 실행\n설치 완료될 때까지 ‘다음’ 버튼 클릭\n설치 완료\n\n\n\n\n3 RStudio Global Option 설정하기\nRStudio의 기본 설정을 이용해도 되지만 사용하다보면 사용자의 스타일에 맞게 옵션을 변경하고 싶을 때가 있다. 다음은 자주 사용하는 옵션 설정 방법이다. 만약 기본 설정이 마음에 든다면 굳이 변경하지 않아도 된다.\n먼저 RStudio의 설정을 변경하고 싶다면 상단 메뉴바에서 Tools &gt; Global Options…을 클릭한다. 아래와 같이 Options창이 뜨면 이곳에서 파이프 연산자, 테마, 폰트, 창 구성 등을 변경할 수 있다."
+  },
+  {
+    "objectID": "teacher.html#사전-학습",
+    "href": "teacher.html#사전-학습",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "",
+    "text": "R과 RStudio 설치\nR의 기초\n데이터 시각화"
+  },
+  {
+    "objectID": "teacher.html#일정",
+    "href": "teacher.html#일정",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "일정",
+    "text": "일정\n\n7월 28일(월)\n\n\n\n시간\n내용\n담당\n비고\n\n\n\n\n10:00~12:00\nAIㆍ디지털 시대의 지리 교사의 역량\n이상일\n이론\n\n\n12:00~13:00\n점심 식사\n\n\n\n\n13:00~15:00\nR과 Quarto를 활용한 인터랙티브 대시보드 제작\n\nR을 활용한 원격탐사 데이터 처리 및 시각화\nQuarto를 활용한 대시보드 제작\n[동영상] USGS EarthExplorer 데이터 다운로드 하기\n\n김우형\n실습\n\n\n15:00~17:00\nR과 Shiny로 만드는 웹 앱: 탐구학습용 학습도구 개발\n김세창\n실습\n\n\n\n\n\n7월 29일(화)\n\n\n\n\n\n\n\n\n\n시간\n내용\n담당\n비고\n\n\n\n\n10:00~12:00\n인터랙티브 지리공간 교수-학습 웹 앱 디자인\n모두\n프로젝트\n\n\n12:00~13:00\n점심 식사\n\n\n\n\n13:00~15:00\n인터랙티브 지리공간 교수-학습 웹 앱 제작 (1)\n모두\n프로젝트\n\n\n15:00~17:00\n인터랙티브 지리공간 교수-학습 웹 앱 제작 (2)\n모두\n프로젝트"
+  },
+  {
+    "objectID": "LAB_0_Data_Visualization.html",
+    "href": "LAB_0_Data_Visualization.html",
+    "title": "데이터 시각화",
+    "section": "",
+    "text": "ggplot2 패키지는 R에서 시각화를 위해 가장 널리 사용되는 패키지 중 하나로, 그래픽 문법(Grammar of Graphics)을 바탕으로 유연하고 직관적인 그래프 생성을 가능하게 한다. 심미성 요소(aesthetics)와 기하적 요소(geometry)를 명확히 분리하고, 각 요소를 레이어(layer) 형태로 구성해 +로 연결함으로써 복잡한 시각화를 논리적으로 표현할 수 있다.\n\n\n출처: https://r.qcbs.ca/workshop03/book-en/grammar-of-graphics-gg-basics.html\n\n각 레이어에 대한 설명은 다음과 같다.\n\n\n\n\n\n\n구성요소\n설명\n\n\n\n데이터(Data)\n시각화할 원데이터\n\n\n심미성(Aesthetics)\n변수와 시각적 속성 간의 연결(x, y, color, size 등)\n\n\n기하(Geometries)\n실제 그래프 형태\n\n\n면 분할(Facets)\n데이터를 하위 집합으로 나누어 여러 개의 소형 그래프로 표현\n\n\n통계 변환(statistics)\n데이터에 대한 요약 또는 변환\n\n\n좌표계(Coordinates)\n그래프의 좌표체계를 설정\n\n\n테마(Theme)\n배경, 폰트, 제목, 축 등 비데이터적 시각 요소"
+  },
+  {
+    "objectID": "LAB_0_Data_Visualization.html#기초-예제",
+    "href": "LAB_0_Data_Visualization.html#기초-예제",
+    "title": "데이터 시각화",
+    "section": "\n2.1 기초 예제",
+    "text": "2.1 기초 예제\n기초 예제에서 다룰 데이터는 iris 데이터이다. 그려볼 그래프는 꽃잎의 길이와 너비 사이의 관계를 보여줄 수 있는 산점도를 그려보고자 한다. 이 때 종별로 심미성 요소를 다르게 부여하여 시각적으로 구분하고자 한다.\niris 데이터를 불러와 확인해보자. 꽃잎의 길이는 Petal.Length, 꽃잎의 너비는 Petal.Width, 종에 대한 정보는 Species에 나타나있다.\n\nhead(iris)\n\n  Sepal.Length Sepal.Width Petal.Length Petal.Width Species\n1          5.1         3.5          1.4         0.2  setosa\n2          4.9         3.0          1.4         0.2  setosa\n3          4.7         3.2          1.3         0.2  setosa\n4          4.6         3.1          1.5         0.2  setosa\n5          5.0         3.6          1.4         0.2  setosa\n6          5.4         3.9          1.7         0.4  setosa\n\n\nggplot2 패키지는 tidyverse 패키지 내에 속해 있다. tidyverse 패키지를 로드하자.\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.4     \n── Conflicts ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n먼저 그래프를 그릴 데이터를 추가한다.\n\nggplot(data = iris)\n\n\n\n\n\n\n\n데이터만 추가했을 때는 x축과 y축에 어떤 변수가 들어갈지 정해지지 않아서 빈 화면만 출력되는 것을 볼 수 있다. 이제 x축과 y축을 지정해보자. x축과 y축 지정은 심미성 매핑에 해당하므로 aes() 함수 안에서 지정한다. 꾳잎의 길이와 꽃잎의 너비의 관계를 보고 싶으므로 x축에 꾳잎의 길이, y축에 꽃잎의 너비를 지정해보자.\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width))\n\n\n\n\n\n\n\n아직 기하 객체가 없기 때문에 그래프가 나타나지 않는다. geom_point()를 사용하여 점 객체를 그려 산점도를 완성해보자.\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width)) + \n    geom_point()\n\n\n\n\n\n\n\n드디어 산점도가 그려졌다. 하지만 우리가 원하는 최종적인 그래프는 그래프 내에서 종이 시각적으로 구분되는 것이다. 이를 위해서는 추가적인 심미성 매핑이 필요하다."
+  },
+  {
+    "objectID": "LAB_0_Data_Visualization.html#심미성-매핑",
+    "href": "LAB_0_Data_Visualization.html#심미성-매핑",
+    "title": "데이터 시각화",
+    "section": "\n2.2 심미성 매핑",
+    "text": "2.2 심미성 매핑\n심미성 매핑(aesthetic mapping)은 데이터의 변수를 시각적 속성에 연결하는 과정을 의미하며, 앞서 보았듯이 aes() 함수 안에서 지정된다. x축과 y축을 지정하거나, 변수에 따라서 색상, 크기, 투명도 등을 다르게 부여하는 것이 대표적인 심미성 매핑의 예시이다. 앞서 그린 그래프를 종에 따라서 점 색상이 다르게 나타나도록 해보자. color 속성을 이용하면 된다.\n\n# 심미성: 색상\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point()\n\n\n\n\n\n\n\n점의 형태나 크기, 투명도도 종에 따라 다르게 부여할 수 있다.\n\n# 심미성: 형태\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, shape = Species)) +\n    geom_point()\n\n\n\n\n\n\n\n\n# 심미성: 크기\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, size = Species)) +\n    geom_point()\n\nWarning: Using size for a discrete variable is not advised.\n\n\n\n\n\n\n\n\n\n# 심미성: 투명도\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, alpha = Species)) +\n    geom_point()\n\nWarning: Using alpha for a discrete variable is not advised.\n\n\n\n\n\n\n\n\n심미성 요소는 ggplot() 내에서 글로벌하게 적용할 수도 있고, 기하 객체별로 로컬하게 적용할 수도 있다. 위에서 그린 산점도를 보면 꽃잎 길이와 너비 사이의 정적(positive) 관계를 확인할 수 있는데, 이를 표현하는 추세선을 그리고자 한다. 이때 color 심미성 요소를 글로벌하게 적용하느냐, 로컬하게 적용하느냐에 따라 다른 결과를 얻게 된다. 추세선은 geom_smooth()를 이용하여 그릴 수 있으며, 하나의 그래프에 복수의 기하 객체를 담고 싶다면 +로 연결해주면 된다.\n\n# 글로벌하게 적용\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point() +\n    geom_smooth()\n\n\n\n\n\n\n\n\n# 로컬하게 적용\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width)) +\n    geom_point(aes(color = Species)) +\n    geom_smooth()\n\n`geom_smooth()` using method = 'loess' and formula = 'y ~ x'"
+  },
+  {
+    "objectID": "LAB_0_Data_Visualization.html#기하-객체",
+    "href": "LAB_0_Data_Visualization.html#기하-객체",
+    "title": "데이터 시각화",
+    "section": "\n2.3 기하 객체",
+    "text": "2.3 기하 객체\n기하 객체(geometric objects)는 데이터가 시각적으로 표현되는 구체적인 형태를 의미하는데, ggplot2 패키지에서는 geom_으로 시작하는 함수로 나타낸다. 점, 선, 막대, 히스토그램, 박스플롯 등 다양한 기하 객체가 존재하며 사용자가 그리고자 하는 그래프 유형에 따라 적절하게 선택할 수 있다. 위에서 사용한 geom_point()도 점을 표현하는 기하 객체이다.\ngeom_line()을 사용하면 선을 표현할 수 있다. 관측 순서에 따른 꽃잎 길이에 대한 꺾은선 그래프를 그려보자.\n\nggplot(data = iris, aes(x = 1:150, y = Petal.Length, color = Species)) + \n    geom_line() +\n    labs(\n        x = \"Observed Index\",\n        y = \"Length of Petal\"\n    )\n\n\n\n\n\n\n\ngeom_bar()와 geom_col()은 막대 그래프를 그린다. 여기서는 geom_col()를 사용해 종별 평균 꽃잎 길이를 나타내는 그래프를 그려보자.\n\n# 종별 평균 꽃잎 길이 구하기\niris_avg &lt;- iris |&gt; \n    group_by(Species) |&gt; \n    summarise(avg_Petal_Length = mean(Petal.Length))\n\n# 종별 평균 꽃잎 길이 \nggplot(data = iris_avg, aes(x = Species, y = avg_Petal_Length)) +\n    geom_col()\n\n\n\n\n\n\n\ngeom_histogram()는 히스토그램을 그린다. 꽃잎 길이에 대한 히스토그램을 그려보자. binwidth 옵션은 히스토그램의 구간을 설정한다.\n\nggplot(data = iris, aes(x = Petal.Length)) + \n    geom_histogram(binwidth = 0.1)\n\n\n\n\n\n\n\ngeom_boxplot()은 박스플롯을 그린다. 종별 꽃잎 길이에 대한 박스플롯을 그려보자. 종의 구분은 색상으로 한다.\n\nggplot(data = iris, aes(x = Petal.Length, color = Species)) +\n    geom_boxplot()"
+  },
+  {
+    "objectID": "LAB_0_Data_Visualization.html#스케일",
+    "href": "LAB_0_Data_Visualization.html#스케일",
+    "title": "데이터 시각화",
+    "section": "\n3.1 스케일",
+    "text": "3.1 스케일\n스케일(scale)은 심미성을 세부적으로 조정하는 역할을 하며, scale_&lt;aesthetic&gt;_&lt;type&gt;() 형태로 사용된다.\n\n&lt;aesthetic&gt; : x, y, color, fill, size, shape 등\n&lt;type&gt; : continuous, discrete, manual, gradient, log10, 등\n\n앞서 그린 꽃잎의 길이와 너비에 대한 산점도를 다시 살펴보자.\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point()\n\n\n\n\n\n\n\n이는 아래 코드처럼 ggplot2가 자동으로 적용한 세 가지 스케일 설정에 의거해 만들어진 것이다.\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point() +\n    scale_x_continuous() +\n    scale_y_continuous() +\n    scale_color_discrete()\n\n\n\n\n\n\n\n스케일 함수의 아규먼트를 수정하면 보다 세밀한 심미성 조정이 가능하다.\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point() +\n    scale_x_continuous(labels = NULL) +  # x축 표시하지 않음\n    scale_y_continuous(breaks = seq(0, 3, by = 1)) + # y축 구간 설정\n    scale_color_brewer(palette = \"Set2\") # 컬러 팔레트 설정\n\n\n\n\n\n\n\n\n\n\n\n\n\nColorBrewer\n\n\n\nscale_color_brewer() 함수는 ColorBrewer 컬러 스케일을 사용한 것인데 익히고 있으면 많은 도움이 된다. 살펴보면 양적인 변수에 적용하기 좋은 팔레트가 있고, 질적인 변수에 적용하기 좋은 팔레트도 있다. 마음에 드는 팔레트를 골라 그래프의 색상 팔레트를 바꿔보자.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n직접 색상 지정하기\n\n\n\n내가 원하는 색상을 골라 직접 지정하는 방법도 있다. scale_color_brewer() 대신 scale_color_manual() 함수를 사용하면 된다. 또한 RGB 색상에 대한 html 코드를 사용해도 되고, R에서 부여한 657개의 이름 중에서 골라 사용해도 된다. 색상 이름 및 html 코드는 다음 사이트를 참고하라.\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point() +\n    scale_x_continuous(labels = NULL) +  \n    scale_y_continuous(breaks = seq(0, 3, by = 1)) + \n    scale_color_manual(\n        values = c(\n            \"setosa\" = \"Tomato\",\n            \"versicolor\" = \"#3498DB\",\n            \"virginica\" = \"#F1C40F\"\n            ) # 컬러 팔레트 직접 설정\n        )"
+  },
+  {
+    "objectID": "LAB_0_Data_Visualization.html#좌표",
+    "href": "LAB_0_Data_Visualization.html#좌표",
+    "title": "데이터 시각화",
+    "section": "\n3.2 좌표",
+    "text": "3.2 좌표\n좌표(coordinates) 레이어 혹은 좌표계(coordinate systems)는 그래픽 요소들의 위치 결정에 기준이 되는 준거체계이다. coord_flip() 함수가 대표적이다.\ncoord_flip()은 축을 전환한다. 종별 꽃잎 길이에 대한 박스플롯의 축을 바꿔 보다 보기 편하게 그려보자.\n\nggplot(data = iris, aes(x = Petal.Length, color = Species)) +\n    geom_boxplot() +\n    coord_flip()"
+  },
+  {
+    "objectID": "LAB_0_Data_Visualization.html#테마",
+    "href": "LAB_0_Data_Visualization.html#테마",
+    "title": "데이터 시각화",
+    "section": "\n3.3 테마",
+    "text": "3.3 테마\nggplot2 패키지는 다양한 complete 테마를 제공하고 있으며 theme_*() 함수를 이용해 설정 가능하다. 여기에서 확인한 후 마음에 드는 테마로 설정해보자.\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point() +\n    theme_minimal()\n\n\n\n\n\n\n\ntheme() 함수를 사용하여 요소별로 하나씩 수정할 수도 있다. 수정 가능한 요소는 여기를 확인하라. 아래는 범례의 배열 방식과 위치를 수정한 것이다.\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point() +\n    theme_minimal() +\n    theme(\n        legend.direction = \"horizontal\",\n        legend.position = \"bottom\"\n    )"
+  },
+  {
+    "objectID": "LAB_0_Data_Visualization.html#라벨",
+    "href": "LAB_0_Data_Visualization.html#라벨",
+    "title": "데이터 시각화",
+    "section": "\n4.1 라벨",
+    "text": "4.1 라벨\nlabs() 함수를 이용하면 그래프에 다양한 종류의 라벨을 설정할 수 있다.\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point() +\n    labs(\n        title = \"Relationship Between Petal Length and Width\", # 그래프 제목\n        subtitle = \"Visualizing Morphological Differences Among Iris Setosa, Versicolor, and Virginica\", # 부제\n        x = \"Petal Length (cm)\", # x축 제목\n        y = \"Petal Width (cm)\", # y축 제목\n        color = \"Species\", # 범례 제목\n        caption = \"Source: Fisher's Iris Dataset (1936)\" # 주석\n    )"
+  },
+  {
+    "objectID": "LAB_0_Data_Visualization.html#그래프-저장",
+    "href": "LAB_0_Data_Visualization.html#그래프-저장",
+    "title": "데이터 시각화",
+    "section": "\n4.2 그래프 저장",
+    "text": "4.2 그래프 저장\n두 가지 방식이 있다. 첫 번째 방식은 Output 창의 Plots 탭에 있는 Export 버튼은 이용하는 것이다. 다양한 그래픽 포멧 뿐만 아니라 pdf 형식으로도 저장할 수 있다. 저장 경로와 저장명, 그래프의 폭과 너비를 설정 후 save 버튼을 누르면 이미지가 저장된다.\n\n두 번째 방식은 ggplot2 패키지의 ggsave() 함수를 이용하는 것이다. 결과물의 가로-세로 비, 해상도 등을 종합적으로 고려하여 최적의 세팅값을 찾아야 한다. 디바이스에 따라 동일한 세팅값이 다른 결과를 산출하기도 한다.\n\nmy_plot &lt;- ggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point() +\n    labs(\n        title = \"Relationship Between Petal Length and Width\", # 그래프 제목\n        subtitle = \"Visualizing Morphological Differences Among Iris Setosa, Versicolor, and Virginica\", # 부제\n        x = \"Petal Length (cm)\", # x축 제목\n        y = \"Petal Width (cm)\", # y축 제목\n        color = \"Species\", # 범례 제목\n    ) +\n    theme_minimal() \n\nggsave(filename = \"my_plot.png\", plot = my_plot, width = 8, height = 6, dpi = 600)"
+  },
+  {
+    "objectID": "LAB_0_R_기초.html",
+    "href": "LAB_0_R_기초.html",
+    "title": "R의 기초",
+    "section": "",
+    "text": "RStudio를 실행하면 아래와 같은 초기 화면이 나타난다. 크게 세 부분으로 구성되어 있는데, 좌측의 큰 창은 콘솔(console)창, 우상단의 창은 환경(environment)창, 우하단의 창은 결과(output)창 혹은 파일(file)창이라 부른다.\n\n\n콘솔창: 직접 코드를 입력 및 실행하거나 소스창에서 실행한 R 코드의 결과나 나타나는 곳\n환경창: 값을 할당한 각종 변수 및 객체의 리스트를 볼 수 있는 곳\n결과창: 파일 리스트 확인(Files), 그래프 및 지도 등 시각화 객체 출력(Plots), 설치된 패키지 확인(Packages), 도움말 출력(Help) 등의 기능을 수행하는 곳\n\n콘솔창에서의 코드는 Eneter를 치는 순간 즉각적으로 실행되고 저장되지 않기 때문에 코드를 길게 작성하거나 수정하기에는 불편하다. 이를 해결하기 위한 새로운 창이 바로 소스(source)창이다. 소스창을 추가하는 방법은 세 가지이다.\n\n\n최상단 메뉴 이용: File &gt; New File &gt; R Script\n\n\n\n콘솔창 우상단의 창 아이콘 클릭\n\n\n단축키: Ctrl + Shift + N(윈도우) / Command + Shift + N(Mac)\n\n소스창을 생성하면 아래와 같이 콘솔창 위에 새로운 창이 생긴 것을 확인할 수 있다. 이곳에서 작성하는 코드는 Enter키를 누르더라도 코드가 바로 실행되지 않고, 줄바꿈이 되어 코드를 이어 작성할 수 있다. 만약 코드를 실행하고 싶다면 실행하고 싶은 코드가 있는 라인에 커서를 두거나 드래그를 하여 여러 코드 라인을 선택한 후, Ctrl + Enter를 누르거나 소스창 우상단의 Run 버튼을 누르면 된다."
+  },
+  {
+    "objectID": "LAB_0_R_기초.html#r-studio-초기-화면-구성",
+    "href": "LAB_0_R_기초.html#r-studio-초기-화면-구성",
+    "title": "R의 기초",
+    "section": "",
+    "text": "RStudio를 실행하면 아래와 같은 초기 화면이 나타난다. 크게 세 부분으로 구성되어 있는데, 좌측의 큰 창은 콘솔(console)창, 우상단의 창은 환경(environment)창, 우하단의 창은 결과(output)창 혹은 파일(file)창이라 부른다.\n\n\n콘솔창: 직접 코드를 입력 및 실행하거나 소스창에서 실행한 R 코드의 결과나 나타나는 곳\n환경창: 값을 할당한 각종 변수 및 객체의 리스트를 볼 수 있는 곳\n결과창: 파일 리스트 확인(Files), 그래프 및 지도 등 시각화 객체 출력(Plots), 설치된 패키지 확인(Packages), 도움말 출력(Help) 등의 기능을 수행하는 곳"
+  },
+  {
+    "objectID": "LAB_0_R_기초.html#소스창-추가",
+    "href": "LAB_0_R_기초.html#소스창-추가",
+    "title": "R의 기초",
+    "section": "",
+    "text": "콘솔창에서의 코드는 Eneter를 치는 순간 즉각적으로 실행되고 저장되지 않기 때문에 코드를 길게 작성하거나 수정하기에는 불편하다. 이를 해결하기 위한 새로운 창이 바로 소스(source)창이다. 소스창을 추가하는 방법은 세 가지이다.\n\n\n최상단 메뉴 이용: File &gt; New File &gt; R Script\n\n\n\n콘솔창 우상단의 창 아이콘 클릭\n\n\n단축키: Ctrl + Shift + N(윈도우) / Command + Shift + N(Mac)\n\n소스창을 생성하면 아래와 같이 콘솔창 위에 새로운 창이 생긴 것을 확인할 수 있다. 이곳에서 작성하는 코드는 Enter키를 누르더라도 코드가 바로 실행되지 않고, 줄바꿈이 되어 코드를 이어 작성할 수 있다. 만약 코드를 실행하고 싶다면 실행하고 싶은 코드가 있는 라인에 커서를 두거나 드래그를 하여 여러 코드 라인을 선택한 후, Ctrl + Enter를 누르거나 소스창 우상단의 Run 버튼을 누르면 된다."
+  },
+  {
+    "objectID": "LAB_0_R_기초.html#r-콘솔과-프롬프트",
+    "href": "LAB_0_R_기초.html#r-콘솔과-프롬프트",
+    "title": "R의 기초",
+    "section": "\n2.1 R 콘솔과 프롬프트",
+    "text": "2.1 R 콘솔과 프롬프트\nR 콘솔은 사용자의 명령문을 받고 결과물을 출력하는 곳이다. 콘솔창에 나타나는 &gt; 기호는 명령 프롬프트라 불리며, R이 사용자의 명령을 받을 준비가 되었음을 의미한다. 프롬프트에 명령문을 입력하고 Enter키를 누르면 입력된 명령문이 R에 전달되어 실행된다. 출력 결과는 &gt;이 없는 행에 표시된다. 아래 코드를 R 콘솔창 프롬프트에 입력하고 Enter키를 눌러 R 명령문을 실행해보자.\n\niris\n\niris에 대해 자세히 알고 싶다면 ?명령어를 이용할 수 있다.\n\n?iris\n\n위 코드를 실행하면 오른편의 Help 창에 도움말이 나타난다. iris는 R 내장 데이터로 붓꽃 세 종(Setosa, Versicolor, Virginica)에 대해 각각 50개의 꽃 표본의 측정값을 포함하고 있음을 알 수 있다. 변수로는 꽃받침(sepal)의 길이와 너비, 꽃잎(petal)의 길이와 너비가 있으며, 단위는 센티미터(cm)이다. ?은 내장 데이터 뿐만 아니라 함수에 대한 설명도 제공한다.\n\n?summary\n\n도움말을 보면 알 수 있듯이 summary() 함수는 기초 통계량을 제공하는 함수이다. summary()를 사용하여 iris 데이터의 기초 통계량을 구해보자.\n\nsummary(iris)\n\n  Sepal.Length    Sepal.Width     Petal.Length    Petal.Width          Species  \n Min.   :4.300   Min.   :2.000   Min.   :1.000   Min.   :0.100   setosa    :50  \n 1st Qu.:5.100   1st Qu.:2.800   1st Qu.:1.600   1st Qu.:0.300   versicolor:50  \n Median :5.800   Median :3.000   Median :4.350   Median :1.300   virginica :50  \n Mean   :5.843   Mean   :3.057   Mean   :3.758   Mean   :1.199                  \n 3rd Qu.:6.400   3rd Qu.:3.300   3rd Qu.:5.100   3rd Qu.:1.800                  \n Max.   :7.900   Max.   :4.400   Max.   :6.900   Max.   :2.500                  \n\n\nsetosa 종의 꽃받침 너비와 길이의 상관 관계를 파악하기 위해 산점도를 그려보고 싶다면 plot() 함수를 이용하면 된다. 출력 결과는 콘솔창이 아닌 Plots 창에 나타나는 걸 확인할 수 있다. 이때 data 옵션에 iris가 아닌 iris[1:50, ]을 입력한 것은 종이 setosa인 데이터가 iris 데이터의 1~50행에 위치하고 있기 때문에 해당 데이터 영역만 인덱싱하기 위함이다.\n\nplot(Sepal.Length ~ Sepal.Width, data = iris[1:50,])"
+  },
+  {
+    "objectID": "LAB_0_R_기초.html#변수와-할당",
+    "href": "LAB_0_R_기초.html#변수와-할당",
+    "title": "R의 기초",
+    "section": "\n2.2 변수와 할당",
+    "text": "2.2 변수와 할당\n\n\n\n\n\n\nImportant\n\n\n\n지금부터의 실습은 콘솔창이 아닌 소스창에서 진행한다. 상술하였듯 콘솔창의 코드는 수정이 어렵고 저장이 불가능하기 때문이다. 소스창에 입력한 코드를 실행하기 위해서는 Ctrl + Enter를 입력한다.\n\n\n동아시아 국가의 인구를 활용하여 총합과 평균을 구한다고 가정해보자. 2024년 기준 한국은 51,738,086명, 중국은 1,429,060,864명, 일본은 124,071,179명이다. 동아시아 인구 총합과 평균을 계산하기 위해선 다음과 같은 코드를 입력해야 한다.\n\n51738086 + 1429060864 + 124071179  # 합\n\n[1] 1604870129\n\n(51738086 + 1429060864 + 124071179) / 3  # 평균\n\n[1] 534956710\n\n\n코드를 직접 타이핑 하는 순간 한중일의 인구 수를 좀 더 간단하게 표현할 수 있으면 좋겠다는 생각이 들 것이다. 또한, 두 연산에서 인구의 합 계산이 반복되고 있음을 알 수 있다. 이러한 문제를 해결할 수 있는 방법이 변수와 할당이다.\n변수는 데이터를 저장해두는 공간이라고 생각하면 쉽다. 예를 들어, 한국의 인구 수를 메모리에 저장하고, 그 저장 위치를 가리키는 이름을 korea라고 붙였다고 하자. 이 때 korea가 변수, 이름을 붙이는 행위가 할당이라 볼 수 있다. R에서 할당은 할당 연산자 &lt;-를 이용하여 수행한다.\n각 국가의 인구수를 각 국가명의 변수에 할당해보자. 할당이 완료된 후 각 국가명을 호출하면 각 국가의 인구 수가 정상적으로 호출되는 것을 볼 수 있다.\n\nkorea &lt;- 51738086\nchina &lt;- 1429060864\njapan &lt;- 124071179\n\nkorea\n\n[1] 51738086\n\n\n변수에는 연산 수행 결과도 할당시킬 수 있다. 동아시아 인구 총합을 total이라는 변수에 할당해보자.\n\ntotal &lt;- korea + china + japan\ntotal\n\n[1] 1604870129\n\n\n변수 자체를 이용하여 다양한 명령을 수행하는 것도 가능하다. 동아시아 인구 평균을 계산할 때 미리 할당해 둔 total 변수를 이용하면 불필요한 연산을 추가로 할 필요 없이 계산할 수 있다.\n\ntotal / 3\n\n[1] 534956710"
+  },
+  {
+    "objectID": "LAB_0_R_기초.html#함수",
+    "href": "LAB_0_R_기초.html#함수",
+    "title": "R의 기초",
+    "section": "\n2.3 함수",
+    "text": "2.3 함수\nR에는 다양한 함수가 존재하며, 필요에 따라서는 사용자가 자신만의 함수를 만들 수도 있다. 함수는 괄호 ( ) 안의 값을 입력으로 받아 해당 입력값을 활용하여 다양한 연산을 수행한 후 그 결과를 출력으로 반환하며, 함수에 따라 입력과 출력의 형태가 달라진다. 위에서 살펴본 summary()나 plot()도 함수의 하나이다. 지금은 간단한 내장 함수들을 위주로 살펴보자.\n\n# 합\nsum(1, 2, 3)\n\n[1] 6\n\nsum(korea, japan, china) # 입력값으로 변수 사용 가능\n\n[1] 1604870129\n\n# 평균\nmean(1, 2, 3)\n\n[1] 1\n\nmean(korea, japan, china)\n\n[1] 51738086\n\n# 제곱근\nsqrt(4)\n\n[1] 2\n\n# 상용로그\nlog10(100)\n\n[1] 2\n\n# 반올림\nround(4.7)\n\n[1] 5\n\nround(pi, 4) # 입력값의 순서에 따라 의미가 달라짐\n\n[1] 3.1416\n\n# 절댓값\nabs(-6)\n\n[1] 6"
+  },
+  {
+    "objectID": "LAB_0_R_기초.html#패키지-설치-및-로드",
+    "href": "LAB_0_R_기초.html#패키지-설치-및-로드",
+    "title": "R의 기초",
+    "section": "\n2.4 패키지 설치 및 로드",
+    "text": "2.4 패키지 설치 및 로드\nR에는 R을 설치할 때부터 같이 설치되는 내장함수도 있지만, 내장함수에 없는 다양한 함수와 데이터를 담고 있는 패키지를 설치하여 사용할 수 있다. 앞으로의 실습에 있어 다양한 패키지를 설치하고 불러와 사용할 것이므로 아래 과정에 익숙해지도록 하자.\n패키지를 설치하는 방법은 크게 두 가지이다. 첫 번째는 코드를 사용하는 것이다.\n\ninstall.packages(\"패키지명\")\n\n두 번째 방법은 결과창의 Packages 탭을 활용하는 것이다. Packages 탭을 누르고 상단에 Install 버튼을 클릭하면 설치창이 뜬다. 여기에 필요한 패키지명을 검색하여 패키지를 설치할 수 있다.\n\n설치한 패키지를 로드하기 위해서는 다음 코드를 실행하면 된다.\n\nlibrary(패키지명)\n\n연습삼아 우리가 앞으로 자주 사용할 패키지 하나인 tidyverse를 설치해보자. tidyverse는 데이터 전처리부터 시각화까지 수행하는 아주 강력한 패키지이다.\n\ninstall.packages(\"tidyverse\")\n\ntidyverse의 유용성을 확인하기 위해 iris 데이터를 활용하여 간단한 데이터 분석을 진행해보자. 예를 들어, 종이 virginica이고 꽃잎의 길이가 짧은 순서대로 10개의 데이터의 꽃잎 길이와 너비만 보고 싶다 하자. tidyverse를 사용하지 않고 base R 함수를 사용하면 iris 데이터에서 종이 virginica인 개체를 추출하여 vir 변수에 할당한 후, 이를 꽃잎 길이로 정렬하여 상위 10개를 뽑아와야 한다. 코드로 작성하면 다음과 같다.\n\nvir &lt;- iris[iris$Species == \"virginica\", ]\nhead(vir[order(vir$Petal.Length), c(\"Petal.Length\", \"Petal.Width\")], 10)\n\n    Petal.Length Petal.Width\n107          4.5         1.7\n127          4.8         1.8\n139          4.8         1.8\n122          4.9         2.0\n124          4.9         1.8\n128          4.9         1.8\n114          5.0         2.0\n120          5.0         1.5\n147          5.0         1.9\n102          5.1         1.9\n\n\n\n\n\n\n\n\n인덱싱과 연산자\n\n\n\n데이터의 일부를 대괄호 []을 사용하여 추출하는 것을 인덱싱이라한다. 특히, 표 형태의 데이터에서 인덱싱을 할 경우 [행 조건, 열 조건]으로 입력해주어야 한다.\n\niris[iris$Species == \"virginica\", c(\"Petal.Length\", \"Petal.Width\")]\n\n\n\n    Petal.Length Petal.Width\n101          6.0         2.5\n102          5.1         1.9\n103          5.9         2.1\n104          5.6         1.8\n105          5.8         2.2\n106          6.6         2.1\n107          4.5         1.7\n108          6.3         1.8\n109          5.8         1.8\n110          6.1         2.5\n\n\n위 코드는 iris라는 데이터에서 종이 virginica인 개체를 행 조건으로 부여하여 해당 조건을 만족하고 있는 행만 추출하고, 열 조건에는 꽃잎 길이와 너비 변수만 선택하도록 하여 특정 열만을 선택한 것을 알 수 있다.\n이때 사용된 $과 ==은 연산자라고 한다. 각 연산자의 기능은 다음과 같다.\n\n\n$: 데이터의 특정 구성 요소(이름이 있는 열 또는 항목)를 지정할 때 사용\n\nlength(iris$Species)\n\n[1] 150\n\n\n\n\n==: 두 같이 같은지를 비교할 때 사용\n\n1 == 1\n\n[1] TRUE\n\n1 == 2\n\n[1] FALSE\n\n\n\n\n이외에도 R에는 &lt;, &gt;, &lt;=, &gt;=, != 등과 같은 다양한 연산자가 존재한다.\n\n\nbase R로 작성된 코드를 tidyverse를 사용하면 보다 쉽게 코드를 작성할 수 있다. 먼저 tidyverse 패키지를 불러온다.\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────────────────────────────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.4     \n── Conflicts ────────────────────────────────────────────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\niris |&gt; \n  filter(Species == \"virginica\") |&gt; # Species가 virginica인 행 필터링\n  select(Petal.Length, Petal.Width) |&gt; # 꽃잎 길이와 너비 열 선택\n  arrange(Petal.Length) |&gt; # Petal.Length 기준 정렬\n  head(n = 10) # 10개 값만 추출\n\n   Petal.Length Petal.Width\n1           4.5         1.7\n2           4.8         1.8\n3           4.8         1.8\n4           4.9         2.0\n5           4.9         1.8\n6           4.9         1.8\n7           5.0         2.0\n8           5.0         1.5\n9           5.0         1.9\n10          5.1         1.9\n\n\n코드가 보다 깔끔해지고 직관적으로 작성된 것을 알 수 있다. 이것이 tidyverse의 힘이다.\n\n\n\n\n\n\n파이프 연산자 |&gt;\n\n\n\n파이프 연산자(pipe operator)는 여러 함수나 연산을 연결(chain)하여 데이터를 순차적으로 처리할 수 있도록 해주는 연산자다. |&gt; 혹은 %&gt;%으로 나타내며, 단축키는 Ctrl(cmd) + Shift + M 이다. 각 함수의 결과를 다음 함수의 입력으로 전달하는 데 사용하며, 코드를 가독성 있게 작성하고 데이터 처리 순서를 논리적으로 표현하는 데 매우 유용하다."
+  },
+  {
+    "objectID": "LAB_0_R_기초.html#rstudio-프로젝트란",
+    "href": "LAB_0_R_기초.html#rstudio-프로젝트란",
+    "title": "R의 기초",
+    "section": "\n3.1 RStudio 프로젝트란?",
+    "text": "3.1 RStudio 프로젝트란?\nRStudio 프로젝트는 R 작업을 보다 체계적으로 관리할 수 있도록 도와주는 기능이다. 이를 사용하면 다음과 같은 장점이 있다.\n\n코드 실행 시 작업 디렉토리(working directory)가 자동으로 프로젝트 폴더로 설정됨\n모든 파일을 프로젝트 내에서 상대 경로로 참조 가능\n다른 사용자와 협업 시, .Rproj 설정을 공유하여 같은 환경에서 작업할 수 있게 해줌"
+  },
+  {
+    "objectID": "LAB_0_R_기초.html#rstudio-프로젝트-만들기",
+    "href": "LAB_0_R_기초.html#rstudio-프로젝트-만들기",
+    "title": "R의 기초",
+    "section": "\n3.2 RStudio 프로젝트 만들기",
+    "text": "3.2 RStudio 프로젝트 만들기\n1단계: 프로젝트 생성창 열기\n\n\n최상단 메뉴를 이용: File &gt; New Project\n\n\n\n우상단 프로젝트 아이콘 클릭\n\n\n\n2단계: New Directory 혹은 Existing Directory 클릭\n\n\n과제 폴더를 새로 생성해야 하는 경우 → New Directory 선택 &gt; New Project 선택\n\n\n\n이미 존재하는 폴더에 프로젝트를 생성하는 경우 → Existing Directory 선택\n\n\n\n3단계: 프로젝트 파일 생성 경로 지정\n\n\nNew Directory를 선택한 경우: 프로젝트 폴더명과 폴더 생성 위치 지정\n\n\n\nExisting DIrectory를 선택한 경우: 프로젝트 폴더로 사용할 폴더 선택\n\n\n\nOutput 창의 Files 탭을 누르면, 다양한 기본 파일들이 해당 폴더에 생성되었음을 확인할 수 있다. 가장 중요한 .Rproj 확장자를 가진 파일이다. 나중에 R 외부에서 이 파일을 더블클릭하면 RStudio 프로젝트를 열 수 있다. 앞으로의 실습에 활용될 코드와 데이터는 Rstudio 프로젝트 폴더를 생성하였다는 가정 하에 진행될 예정이니, 각자 RStudio 프로젝트 폴더를 만들어 코드와 데이터를 관리하길 바란다."
+  },
+  {
+    "objectID": "student.html#일정",
+    "href": "student.html#일정",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "",
+    "text": "시간\n내용\n담당\n비고\n\n\n\n\n10:00~12:00\nAIㆍ디지털 전환과 지리공간정보\n이상일\n이론\n\n\n12:00~13:00\n점심 식사\n\n\n\n\n13:00~15:00\n드론을 활용한 LiDAR 데이터 구득 및 분석 체험\n이하은\n실습\n\n\n15:00~17:00\n인터랙티브 지리공간 교수-학습 웹 앱을 활용한 데이터 탐색 및 분석 과정 체험\n김세창, 김우형\n탐구활동"
+  },
+  {
+    "objectID": "student.html#프로그램-평가-관련",
+    "href": "student.html#프로그램-평가-관련",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "프로그램 평가 관련",
+    "text": "프로그램 평가 관련\n\n학생 대상 설문"
+  },
+  {
+    "objectID": "teacher.html#프로그램-평가-관련",
+    "href": "teacher.html#프로그램-평가-관련",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "프로그램 평가 관련",
+    "text": "프로그램 평가 관련\n\n인터랙티브 교수-학습 웹 앱 디자인 활동지\n교사 대상 설문"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section",
+    "href": "lecture_2025_07_28.html#section",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/ChatGPT"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#프로그램-소개",
+    "href": "lecture_2025_07_28.html#프로그램-소개",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "프로그램 소개",
+    "text": "프로그램 소개\n\nhttps://sangillee.snu.ac.kr/2025_Geospatial_Edu/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#참가자-소개",
+    "href": "lecture_2025_07_28.html#참가자-소개",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "참가자 소개",
+    "text": "참가자 소개\n\n고등학교 지리 교사\n\n김한성(압구정고등학교)\n남혜경(둔촌고등학교)\n배선주(가락고등학교)\n정고은(상명대학교부속여자고등학교)\n최기중(경동고등학교)\n이용훈(한광여자고등학교)\n정종석(광주고등학교)\n\n국토지리정보원\n\n송민희"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#연수-참가자-소개",
+    "href": "lecture_2025_07_28.html#연수-참가자-소개",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "연수 참가자 소개",
+    "text": "연수 참가자 소개\n\n고등학교 지리 교사\n\n김한성(압구정고등학교)\n남혜경(둔촌고등학교)\n배선주(가락고등학교)\n정고은(상명대학교부속여자고등학교)\n최기중(경동고등학교)\n이용훈(한광여자고등학교)\n정종석(광주고등학교)\n\n국토지리정보원: 송민희"
+  },
+  {
+    "objectID": "index.html#목표",
+    "href": "index.html#목표",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "",
+    "text": "본 프로그램은 중등 지리 교사의 지리공간정보를 활용한 AIㆍ디지털 역량을 실질적으로 함양하고, 그것을 활용한 구체적인 수업 혁신 방안을 모색하는데 주안점이 있다. 교사들은 지리공간정보 교수-학습 역량 강화 연수를 통해 지리공간정보에 기반한 인터랙티브 교수-학습 웹 앱을 디자인 및 제작하는 역량을 함양한다. 학생들은 지리공간정보 체험 캠프를 통해 LiDAR 및 인터랙티브 교수-학습 웹 앱을 활용한 수업에 참여함으로써 지리공간정보의 중요성을 구체적으로 체험해보는 기회를 갖는다."
+  },
+  {
+    "objectID": "index.html#개요",
+    "href": "index.html#개요",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "개요",
+    "text": "개요\n\n지리공간정보 교수-학습 역량 강화 연수\n\n지리공간정보와 AIㆍ디지털 기술에 대한 이론 강의\n디지털 저작 도구인 Quarto와 오픈소스 프로그래밍 언어인 R에 대한 기본 실습\n인터랙티브 교수-학습 웹 앱의 디자인 및 개발 실습: 학교 현장과 양성 기관의 협업\n\n\n\n지리공간정보 체험 캠프\n\n지리공간정보와 AIㆍ디지털 기술에 대한 이론 강의\n드론을 활용한 LiDAR 데이터 구득 및 분석에 대한 체험\n원격탐사 데이터의 탐색 및 분석 체험과 인터랙티브 교수-학습 웹 앱을 활용한 수업 활동 체험"
+  },
+  {
+    "objectID": "index.html#내용",
+    "href": "index.html#내용",
+    "title": "지리공간정보 교육 프로그램",
+    "section": "내용",
+    "text": "내용\n\n지리공간정보 교수-학습 역량 강화 연수\n\nAIㆍ디지털 전환과 지리 교사의 역량에 대한 이론 강의\n디지털 저작 도구인 Quarto와 오픈소스 프로그래밍 언어인 R에 대한 기본 실습\n인터랙티브 교수-학습 웹 앱의 디자인 및 개발 실습: 학교 현장과 양성 기관의 협업\n\n\n\n지리공간정보 체험 캠프\n\n지리공간정보와 AIㆍ디지털 기술에 대한 이론 강의\n드론을 활용한 LiDAR 데이터 구득 및 분석에 대한 체험\n원격탐사 데이터의 탐색 및 분석 체험과 인터랙티브 교수-학습 웹 앱을 활용한 수업 활동 체험"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#프로그램-소개-1",
+    "href": "lecture_2025_07_28.html#프로그램-소개-1",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "프로그램 소개",
+    "text": "프로그램 소개\n\nhttps://sangillee.snu.ac.kr/2025_Geospatial_Edu/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#프로그램-운영진-소개",
+    "href": "lecture_2025_07_28.html#프로그램-운영진-소개",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "프로그램 운영진 소개",
+    "text": "프로그램 운영진 소개\n\n이상일: 서울대학교 지리교육과 교수\n이소영: 가톨릭관동대학교 지리교육과 교수\n실습 조교\n\n김세창: 서울대학교 지리교육과 석사 졸업\n김우형: 서울대학교 지리교육과 조교, 석사과정\n전혜민: 서울대학교 지리교육과 석사과정\n서울대학교 지리교육과 조교, 박사과정"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#소개-운영진",
+    "href": "lecture_2025_07_28.html#소개-운영진",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "소개: 운영진",
+    "text": "소개: 운영진\n\n이상일: 서울대학교 지리교육과 교수\n\n서울대학교 AI융합교육학과\n서울대학교 데이터사이언스대학원 응용데이터사이언스\n\n이소영: 가톨릭관동대학교 지리교육과 교수\n실습 조교\n\n김세창: 서울대학교 지리교육과 석사 졸업\n김우형: 서울대학교 지리교육과 조교, 석사과정\n전혜민: 서울대학교 지리교육과 석사과정\n이하은: 서울대학교 지리교육과 조교, 박사과정"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#소개-연수-참가자",
+    "href": "lecture_2025_07_28.html#소개-연수-참가자",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "소개: 연수 참가자",
+    "text": "소개: 연수 참가자\n\n고등학교 지리 교사\n\n김한성(압구정고등학교)\n남혜경(둔촌고등학교)\n배선주(가락고등학교)\n정고은(상명대학교부속여자고등학교)\n최기중(경동고등학교)\n이용훈(한광여자고등학교)\n정종석(광주고등학교)\n\n국토지리정보원: 송민희"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#프로그램-개요",
+    "href": "lecture_2025_07_28.html#프로그램-개요",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "프로그램 개요",
+    "text": "프로그램 개요\n\nhttps://sangillee.snu.ac.kr/2025_Geospatial_Edu/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#tpack-dbl-프레임워크",
+    "href": "lecture_2025_07_28.html#tpack-dbl-프레임워크",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "TPACK-DBL 프레임워크",
+    "text": "TPACK-DBL 프레임워크\n\n\n\n\n\n\nhttps://tpack.org/tpack-image/\n\n\n\n\n\n\n\nBaran and Uygun, 2016"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#강의-목차",
+    "href": "lecture_2025_07_28.html#강의-목차",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "강의 목차",
+    "text": "강의 목차\n\nAIㆍ디지털 전환과 세 가지 사이언스의 융합\n인터랙티브 지리공간 교수-학습 웹 앱 개발 역량"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-1",
+    "href": "lecture_2025_07_28.html#section-1",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/ChatGPT"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-2",
+    "href": "lecture_2025_07_28.html#section-2",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/Large_language_model"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-4",
+    "href": "lecture_2025_07_28.html#section-4",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://dunoit.com/blogs/30-ai-64f7e9d81cb43\n\n\n\n\n\n\n\nhttps://if-blog.tistory.com/12919"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-6",
+    "href": "lecture_2025_07_28.html#section-6",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/John_Snow"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-7",
+    "href": "lecture_2025_07_28.html#section-7",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/John_Snow"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-9",
+    "href": "lecture_2025_07_28.html#section-9",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://mokeya.tistory.com/76"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-10",
+    "href": "lecture_2025_07_28.html#section-10",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "데이터사이언스는 원(raw) 데이터로부터 지식, 이해, 통찰을 획득하기 위해 수학 및 통계학, 컴퓨터 과학, 도메인(분야) 지식에서 발전해 온 이론, 기술, 방법론 등을 융합적으로 활용하는 간학문적 영역\n\n\n지식, 이해, 통찰을 효과적으로 소통하고, 현실 문제 해결에 대안을 제시"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-11",
+    "href": "lecture_2025_07_28.html#section-11",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://commons.wikimedia.org/wiki/File:Data-Science-Landscape.jpg"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-12",
+    "href": "lecture_2025_07_28.html#section-12",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://www.openscience-maastricht.nl/the-open-science-mission/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-13",
+    "href": "lecture_2025_07_28.html#section-13",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://libraries.mit.edu/news/data-necessarily/31421/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-14",
+    "href": "lecture_2025_07_28.html#section-14",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://cloud.google.com/apigee/docs/api-platform/tutorials/create-api-proxy-openapi-spec?hl=ko"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-15",
+    "href": "lecture_2025_07_28.html#section-15",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/Open_Source_Initiative"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-18",
+    "href": "lecture_2025_07_28.html#section-18",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://ttw-rtd.readthedocs.io/en/latest/reproducible-research/reproducible-research.html"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-19",
+    "href": "lecture_2025_07_28.html#section-19",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://velog.io/@eldoradodo/an96ydx7"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-21",
+    "href": "lecture_2025_07_28.html#section-21",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "EPSG:4326EPSG: 54030EPSG: ???\n\n\n\n\n\nhttps://earthobservatory.nasa.gov/features/NightLights\n\n\n\n\n\n\n\n PROJ.4 문자열: +proj=robin +lon_0=150 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-20",
+    "href": "lecture_2025_07_28.html#section-20",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "EPSG:4326Robinson: 0Robinson: 150E\n\n\n\n\n\nhttps://earthobservatory.nasa.gov/features/NightLights"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-22",
+    "href": "lecture_2025_07_28.html#section-22",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "EPSG:4326EPSG: 54030EPSG: ???\n\n\n\n\n\nhttps://earthobservatory.nasa.gov/features/NightLights\n\n\n\n\n\n\n\n PROJ.4 문자열: +proj=robin +lon_0=150 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-34",
+    "href": "lecture_2025_07_28.html#section-34",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "OldNew\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Population_density"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-33",
+    "href": "lecture_2025_07_28.html#section-33",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "OldNew\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Population_density"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-32",
+    "href": "lecture_2025_07_28.html#section-32",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "OldNew\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Population_density"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#인터랙티브-교수-학습-웹-앱",
+    "href": "lecture_2025_07_28.html#인터랙티브-교수-학습-웹-앱",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "인터랙티브 교수-학습 웹 앱",
+    "text": "인터랙티브 교수-학습 웹 앱\n\n학습자와 콘텐츠 간의 상호작용을 중심으로 설계되어, 능동적 참여, 즉각적 피드백, 탐구 활동 등을 통해 개인의 학습 경험을 향상시키는 교육용 웹 애플리케이션\n성격\n\n디지털 학습지: 교과의 학습 내용을 효과적으로 교수/학습하도록 도와주는 도구\n탐구 학습 도구: 데이터 탐색을 통해 학습자 스스로 이해, 지식, 통찰을 얻도록 도와주는 도구"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#인터랙티브-교수-학습-웹-앱-1",
+    "href": "lecture_2025_07_28.html#인터랙티브-교수-학습-웹-앱-1",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "인터랙티브 교수-학습 웹 앱",
+    "text": "인터랙티브 교수-학습 웹 앱\n\n웹 브라우저를 통해 접근하고 사용하는 교수-학습 목적의 애플리케이션\n데이터 대시보드: 단일한 주제에 대한 상호연관된 다양한 데이터 정보를 그래픽의 형태로 일관성 있게 제시한 것\n\n레이아웃 요소: 카드(행과 열), 페이지, 내비게이션바, 사이드바, 툴바, 탭셋\n내용 요소: 텍스트, 표, 그래프, 지도, 동영상, 밸류 박스\n작동 요소: 정적, 동적, 인터랙티브"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-36",
+    "href": "lecture_2025_07_28.html#section-36",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/\n\n\n\n\n \n\n\n\n\n\nhttps://r-spatial.org/book/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#인터랙티브-지리공간-교수-학습-웹-앱",
+    "href": "lecture_2025_07_28.html#인터랙티브-지리공간-교수-학습-웹-앱",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "인터랙티브 지리공간 교수-학습 웹 앱",
+    "text": "인터랙티브 지리공간 교수-학습 웹 앱\n\n지리공간 요소가 강화된 인터랙티브 교수-학습 웹 앱\n학습자가 지리공간정보를 직접 조작하거나 탐색하면서, 지리 개념, 공간 사고력, 문제 해결 능력 등을 능동적·체험적 방식으로 학습할 수 있도록 설계된 교육용 웹 애플리케이션\n\n인터렉티브 지리공간 시각화 및 탐색 기능\n\n예시\n\nhttps://sangillee.snu.ac.kr/dashboard_examples/\nhttps://sangillee.snu.ac.kr/dashboard_popgeo/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#제작-도구",
+    "href": "lecture_2025_07_28.html#제작-도구",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "제작 도구",
+    "text": "제작 도구\n\nQuarto(쿼토): 대시보드 제작 및 웹 앱 생성\n\n“과학적, 기술적 출판을 위한 위한 오픈소스 시스템”\n다양한 형식의 저작물(노트, 연구 논문, 프레젠테이션, 대시보드, 웹사이트, 블로그, 서적 등)을 다양한 디지털 포맷(HTML, PDF, MS Word, ePub 등)으로 출판할 수 있게 해주는 도구\n\nR(혹은 Python): 인터랙티브 콘텐츠 제작\n\n데이터사이언스 프로세스의 실행\n인터랙티브 지리공간 시각화 및 탐색 기능의 구현"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-37",
+    "href": "lecture_2025_07_28.html#section-37",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/\n\n\n\n\n \n\n\n\n\n\nhttps://r-spatial.org/book/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-38",
+    "href": "lecture_2025_07_28.html#section-38",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/\n\n\n\n\n \n\n\n\n\n\nhttps://r-spatial.org/book/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-39",
+    "href": "lecture_2025_07_28.html#section-39",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "http://dx.doi.org/10.17232/KSET.41.1.79"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-40",
+    "href": "lecture_2025_07_28.html#section-40",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "http://dx.doi.org/10.17232/KSET.41.1.79"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-41",
+    "href": "lecture_2025_07_28.html#section-41",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "http://dx.doi.org/10.17232/KSET.41.1.79"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-42",
+    "href": "lecture_2025_07_28.html#section-42",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://ivelasq.github.io/mortgage-dashboard/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-43",
+    "href": "lecture_2025_07_28.html#section-43",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://rstudio.github.io/cheatsheets/html/quarto.html"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-44",
+    "href": "lecture_2025_07_28.html#section-44",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://bioinformatics.ccr.cancer.gov/docs/btep-coding-club/CC2024/Quarto/GettingStarted_with_Quarto_orig.html"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#자바스크립트-라이브러리",
+    "href": "lecture_2025_07_28.html#자바스크립트-라이브러리",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "자바스크립트 라이브러리",
+    "text": "자바스크립트 라이브러리\n\n웹 앱의 3요소\n\nHTML: 구조와 내용\nCSS: 시각적 디자인\nJavaScript: 동작 및 인터랙션 제어\n\n자바스크립트 라이브러리(JS Library)\n\n자바스크립트로 구현된, 특정 기능을 수행하기 위한 코드들의 모음\n테이블, 차트, 지도\nR 래퍼 패키지"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-45",
+    "href": "lecture_2025_07_28.html#section-45",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-46",
+    "href": "lecture_2025_07_28.html#section-46",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-47",
+    "href": "lecture_2025_07_28.html#section-47",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-48",
+    "href": "lecture_2025_07_28.html#section-48",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://sangillee.shinyapps.io/ThiessenPolygon/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-49",
+    "href": "lecture_2025_07_28.html#section-49",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://sangillee.shinyapps.io/ThiessenPolygon/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#생성형-ai",
+    "href": "lecture_2025_07_28.html#생성형-ai",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "생성형 AI",
+    "text": "생성형 AI\n\n\n\n\n\n\nhttps://ellmer.tidyverse.org/\n\n\n\n\n\n\n\nhttps://ragnar.tidyverse.org/\n\n\n\n\n\n\n\n\n\nhttps://sangillee.snu.ac.kr/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-3",
+    "href": "lecture_2025_07_28.html#section-3",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://dunoit.com/blogs/30-ai-64f7e9d81cb43\n\n\n\n\n\n\n\nhttps://if-blog.tistory.com/12919"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-5",
+    "href": "lecture_2025_07_28.html#section-5",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://dunoit.com/blogs/30-ai-64f7e9d81cb43\n\n\n\n\n\n\n\nhttps://commons.wikimedia.org/wiki/File:R_logo.svg"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-8",
+    "href": "lecture_2025_07_28.html#section-8",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://mokeya.tistory.com/76"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-16",
+    "href": "lecture_2025_07_28.html#section-16",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://blogs.oregonstate.edu/inspire/2021/11/15/open-educational-resources-for-language-teaching-and-learning/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-50",
+    "href": "lecture_2025_07_28.html#section-50",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://sangillee.shinyapps.io/ThiessenPolygon/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-17",
+    "href": "lecture_2025_07_28.html#section-17",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://www.technologynetworks.com/informatics/articles/repeatability-vs-reproducibility-317157"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-23",
+    "href": "lecture_2025_07_28.html#section-23",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "EPSG:4326EPSG: 54030EPSG: ???\n\n\n\n\n\nhttps://earthobservatory.nasa.gov/features/NightLights\n\n\n\n\n\n\n\n PROJ.4 문자열: +proj=robin +lon_0=150 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-51",
+    "href": "lecture_2025_07_28.html#section-51",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://data-flair.training/blogs/javascript-libraries/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-24",
+    "href": "lecture_2025_07_28.html#section-24",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://colorbrewer2.org/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-35",
+    "href": "lecture_2025_07_28.html#section-35",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "OldNew\n\n\n\n\n\nhttps://en.wikipedia.org/wiki/Population_density"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-52",
+    "href": "lecture_2025_07_28.html#section-52",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://plotly.com/r/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#s",
+    "href": "lecture_2025_07_28.html#s",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "s",
+    "text": "s"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-53",
+    "href": "lecture_2025_07_28.html#section-53",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://echarts.apache.org/examples/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#f",
+    "href": "lecture_2025_07_28.html#f",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "f",
+    "text": "f\n\n\n\n\n\n\nhttps://colorbrewer2.org/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-54",
+    "href": "lecture_2025_07_28.html#section-54",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=hero&utm_campaign=try-observable"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-29",
+    "href": "lecture_2025_07_28.html#section-29",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://gsp.humboldt.edu/olm/Courses/GSP_216/lessons/composites.html"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-55",
+    "href": "lecture_2025_07_28.html#section-55",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://leafletjs.com/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#df",
+    "href": "lecture_2025_07_28.html#df",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "df",
+    "text": "df"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-28",
+    "href": "lecture_2025_07_28.html#section-28",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://gsp.humboldt.edu/olm/Courses/GSP_216/lessons/composites.html"
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html",
+    "href": "LAB_1-2_Dashboard.html",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "",
+    "text": "Quarto를 이용하여 데이터 대시보드(dashboard) 만들기"
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#실습-목표",
+    "href": "LAB_1-2_Dashboard.html#실습-목표",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "",
+    "text": "Quarto를 이용하여 데이터 대시보드(dashboard) 만들기"
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#quarto-문서-생성",
+    "href": "LAB_1-2_Dashboard.html#quarto-문서-생성",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "\n0.1 Quarto 문서 생성",
+    "text": "0.1 Quarto 문서 생성\nR studio를 열고 File &gt; New File &gt; Quarto Document를 실행한다. Title과 Author란에 적절한 텍스트를 기입하고 아래에 위치한 Create 버튼을 클릭한다.\n\n\n새로운 Quarto 문서 생성\n\n그렇다면 아래의 화면이 보일 것이다.\n\n\n\n\n\n그림 1: 새로 생성된 Quarto 문서"
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#quarto-문서의-구조",
+    "href": "LAB_1-2_Dashboard.html#quarto-문서의-구조",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "\n0.2 Quarto 문서의 구조",
+    "text": "0.2 Quarto 문서의 구조\n\n\n\n\n\n그림 2: Quarto의 기본 구조\n\n\nQuarto 문서는 두 개의 서로 다른 에디터를 사용하여 편집할 수 있다. 그림 2 에서 왼쪽은 비주얼 에디터(visual editor), 오른쪽은 소스 에디터(source editor)를 사용한 것이다. 소스 에디터는 Notion과 유사한 마크다운 형식을 사용하며, 비주얼 에디터는 마치 워드프로세서를 다루듯 Quarto 문서를 작성할 수 있다.\nQuarto 문서는 크게 세 부분으로 나뉘어진다.\n\nYAML 헤더(header)\n코드 청크(code chunk)\n마크다운 텍스트\n\n\n0.2.1 YAML 헤더\nYAML 헤더는 Quarto 문서의 최상단에 위치하는 것으로, 문서의 전반적인 사항을 관장한다. YAML 헤더의 모든 요소는 기본적으로 key: value의 형태를 띤다. key는 항목이고, value는 해당 항목에 대한 옵션값이다. 그림 1 에는 title, format, editor의 세 key가 사용되었는데, 제목은 “Hello Quarto”, 산출 포맷은 HTML이며, Quarto 다큐먼트 작성을 비주얼 에디터를 통해 할 것이라는 점을 명시하고 있다.\n이 밖에도 다양한 key가 존재하는데, 링크에서 자세한 정보를 확인할 수 있다. 보통 아래의 것들이 중요하다.\n\n\n\n\n\n\nkey\n설명\n\n\n\ntitle\n다큐먼트의 제목\n\n\ndate\n다큐먼트 작성 날짜\n\n\nauthor\n다큐먼트 저자 이름\n\n\nformat\n다양한 포맷 관련 사항의 지정\n\n\ntoc\n목차 삽입\n\n\nnumber-section\n섹션 제목에 자동 번호 부여 여부\n\n\nexecute: echo\n소스 코드의 포함 여부를 글로벌하게 설정, 보통 true\n\n\nexecute: warning\n경고 메시지를 산출물에 나타나게 할지를 글로벌하게 설정, 보통 false\n\n\neditor\n비주얼 에디터와 소스 에디터 중 선택, 보통 visual\n\n\nfreeze\n렌더링 옵션을 지정, 보통 auto\n\n\n\n--- 으로 둘러싸인 YAML에 아래와 같은 몇 가지 key: value 를 더해보자.\n\n---\nnumber-sections: true\nformat: \n  html: \n    toc: true\nexecute: \n  warning: false\n  error: false\n  freeze: auto\n---\n\n\n0.2.2 코드 청크\n프로그래밍 언어의 코드가 들어가는 부분이다. R을 사용하는 경우 {r}로 시작한다. 지금까지 배운 코드들이 여기에 들어갈 수 있다. 보통 하나의 Quarto 문서 내에 다수의 코드 청크가 포함된다. 각 코드 청크 내에서 코드를 실행할 수 있는데, 한 단위씩 실행할 때는 ctrl(또는 Cmd) + enter, 한 코드 청크 내 모든 코드를 실행하고자 할 때는 ctrl(또는 Cmd) + shift + enter 단축키를 사용한다.\n각 코드 청크 앞 부분에 해당 코드 청크와 관련된 다양한 옵션을 #| 형태로 삽입할 수 있는데, YAML 헤더에서처럼 key: value의 형태를 띤다. 아래의 옵션들은 코드 청크의 내용이나 실행 결과, 오류 메시지 등이 최종 산출물에 어떻게 표현되는지 결정하는 것들이다. 이 밖에도 다양한 옵션들이 존재하는데, 구글링 혹은 Quarto 공식 가이드를 참고하자.\n\n\n\n\n\n\n\n\n\n\n\nOption\nRun code\nShow code\nOutput\nPlots\nMessages\nWarnings\n\n\n\neval: false\nX\n\nX\nX\nX\nX\n\n\ninclude: false\n\nX\nX\nX\nX\nX\n\n\necho: false\n\nX\n\n\n\n\n\n\nresults: hide\n\n\nX\n\n\n\n\n\nfig-show: hide\n\n\n\nX\n\n\n\n\nmessage: false\n\n\n\n\nX\n\n\n\nwarning: false\n\n\n\n\n\nX\n\n\n\n0.2.3 마크다운 텍스트\nQuarto는 기본적으로 마크다운 텍스트 작성을 기반으로 하고 있다. 마크다운 텍스트 작성에 앞서 언급한 비주얼 에디터는 큰 역할을 하는데, 이는 마크다운 언어의 사용자 편의성을 한번 더 강화한 것으로 볼 수 있다.\n기본적인 Quarto 작성법은 다음과 같다.\n\n텍스트: 그냥 작성\n코드 청크(Code Chunk): Insert &gt; Executable Cell &gt; R(Ctrl+Alt+I)\n표(Table): Insert &gt; Table\n그림(Figure): Insert &gt; Figure\n링크(Link): (원하는 텍스트 선택 후) Insert &gt; Link\n머릿말(Header): Normal &gt; Header 1~6 중 선택\n\n모든 내용이 작성되었다면 상단의 Render 버튼을 누르거나 단축키 Ctrl+Shift+K로 결과물을 렌더링할 수 있다.\n\n0.2.4 Quarto 문서 작성 팁\n추가로 몇 가지의 팁을 소개한다.\n첫째, R의 패키지나 함수를 다르게 표시할 수 있다. 지금까지의 실습록에서 tidyverse 함수를 tidyverse 와 같이 표시하던 것이 기억날 것이다. 이는 해당 텍스트를 선택한 후, Format에서 Code를 누르면 생성된다. 혹은 Ctrl+D로 실행할 수 있다.\n둘째, Call-out 이다. 문서 중간에 팁이나 주의를 알려주고 있다.\n\n\n\n\n\n\n힌트\n\n\n\nCallout은 문서 중간에 팁이나 주의를 알려주는데 사용할 수 있다.\n\n\nCallout에는 공지(note), 팁(tip), 중요사항(important), 주의(caution), 경고(warning) 등이 있다. 이는 비주얼 에디터 메뉴 Insert-Callout에서 선택할 수 있고, ::: 으로 둘러싸인 부분에 글이나 코드 청크를 작성하면 된다. 다양한 Callout의 옵션은 공식 가이드에서 찾아볼 수 있다.\n\n0.2.5 Quarto 문서 작성\n위에서 배운 내용을 기반으로 간단한 Quarto 문서를 작성해본다."
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#대시보드의-기본-구조",
+    "href": "LAB_1-2_Dashboard.html#대시보드의-기본-구조",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "\n0.3 대시보드의 기본 구조",
+    "text": "0.3 대시보드의 기본 구조\n대시보드는 기본적으로 다섯 가지의 구성요소로 이루어진다. 각각은 메인 바디, 헤더, 내비게이터, 사이드바, 푸터이다.\n\n\nhttps://blog.zarathu.com/posts/2023-12-11-quarto-dashboard/#tabset\n\n첫째, 메인 바디(main body)는 대시보드의 핵심 요소이다. 메인 바디는 카드(card)라고 불리는 기본 단위들로 구성된다. 개별 카드는 다양한 내용 요소(텍스트, 그래프, 표, 지도, 밸류박스 등)를 가질 수 있다. 즉, 어떤 카드 속에는 그래프가 들어가며, 어떤 카드 속에는 지도가 들어간다. 이러한 카드들은 특정한 레이아웃 요소(페이지, 행, 열, 탭셋 등)를 통해 메인 바디에 배열된다. 페이지(page)는 대시보드 레이아웃 요소 중 최상위 레벨인데, 개별 페이지는 다수의 행(row) 혹은 열(column)로 구성된다. 행 혹은 열을 또다른 행 혹은 열이 아닌 탭 클릭 방식으로 분할하고 싶을 때 탭셋(tabset)이 사용된다.\n둘째, 헤더(header)는 대시보드의 가장 중요한 메타 정보(로고, 제목, 저자 등)를 포함한다.\n셋째, 내비게이터(navigator)는 최상위 레이아웃인 페이지간 이동을 통제한다.\n넷째, 사이드바(sidebar)는 주로 사용자의 인풋(input)을 받을 때 사용되는 것으로, 동적인 대시보드에서 주로 사용된다. Quarto는 사이드바 외에 툴바(toolbar)와 카드인풋(card input)과 같은 옵션을 제공한다.\n다섯째, 푸터(footer)는 헤더와 유사한 기능을 하는데, 주로 부차적인 매타 정도를 포함한다.\n다섯개의 구성 요소 중 가장 중요한 것은 메인 바디, 해더, 내비게이터이다. Quarto는 헤더와 내비게이터를 통합한 내비게이션바(navigation bar)를 제공한다. 사이드바는 Shiny 패키지를 활용한 동적인 대시보드에서는 매우 중요하지만, 이번 실습에서는 사용하지 않는다. 푸터는 가장 지엽적인 요소이다.\n다음의 대시보드를 살펴보자.\n\n\nhttps://quarto.org/docs/dashboards/\n\n이 대시보드는 크게 내비게이션바와 메인 바디로 구성되어 있다. 네비게이션바에는 다음의 내용이 포함되어 있다.\n\n이 대시보드의 제목(title)은 ’고객이탈(Customer Chrun)’이고 회사 이름은 DEMOCO(로고)이다.\n이 대시보드는 모두 두 개의 페이지(page)로 구성되어 있다. 페이지의 이름은 각각 ’Churn (Standard)’과 ’Data’이다.\n\n메인 바디는 다음과 같은 레이아웃 요소들로 구성되어 있다.\n\n첫 번째 페이지(Churn (Standard))는 세 개의 행(row)으로 구성되어 있다.\n첫 번째 페이지의 첫 번째 행은 세 개의 카드(card)로 구성되어 있는데, 내용 요소는 모두 밸류박스(value box)이다.\n첫 번째 페이지의 두 번째 행은 두 개의 열(즉, 카드)로 구성되어 있는데, 내용 요소는 모두 그래프(graph)이다.\n첫 번째 페이지의 세 번째 행은 단일한 열(즉, 카드)로 구성되어 있는데, 내용 요소는 테이블(table)이다.\n두 번째 페이지에도 다양한 사항이 포함되어 있을 것이다.\n\n이 밖에도 다양한 대시보드의 예시를 Quarto 갤러리에서 찾아볼 수 있다."
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#레이아웃-설정법",
+    "href": "LAB_1-2_Dashboard.html#레이아웃-설정법",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "\n0.4 레이아웃 설정법",
+    "text": "0.4 레이아웃 설정법\n기초적인 레이아웃 설정에 대한 내용을 다룬다. 보다 자세한 내용은 공식 문서에서 확인할 수 있다.\n\n0.4.1 페이지의 설정\n페이지(page)는 최상위 레이아웃 요소이다. 기본 원칙은 다음과 같다.\n\n헤더 1(header 1) 레벨이 페이지의 구분을 결정한다.\nQuarto에서는 페이지가 내비게이션바에 나타난다.\n\n# Page A\n\n# Page B\n\n0.4.2 내비게이션 바의 설정\n내비게이션바는 헤더와 내비게이터로 구성된다. 내비게이터는 페이지가 설정된 경우에만 나타나게 된다. 헤더는 다른 Quarto 문서와 마찬가지로 YAML 헤더를 통해 통제된다.\n\n제목(title): 대시보드 전체의 이름을 결정한다.\n저자(author): 만든 사람이나 관리 회사의 이름이지만, 부제로 활용되기도 한다.\n\n포맷(format): 기본 설정인 대시보드(dashboard) 하에 다양한 하위 설정이 가능하다.\n\nlogo: 로고 그림 파일을 지정하면 내비게이션바의 왼쪽 끝에 나타난다.\nnav-buttons: github이나 이메일 연결을 설정할 수 있다.\nscrolling: true 설정: 디폴트는 false인데, 레이아웃 요소들의 높이들의 합이 100%가 되도록 일괄적으로 조절된다. true로 지정하면, 개별 내용 요소의 원 크기를 그대로 살리면서 스크롤되게 디자인이 바뀐다. 둘 다를 실험해 보고 자신의 목적에 맞는 것을 고른다.\n\n\n테마(theme): 대시보드의 외관을 한꺼번에 바꿀 수 있다. 모두 25개의 부트스와치(bootswatch) 테마가 존재한다. 여러가지를 실험해 보고 자신의 취향에 맞는 것을 선정한다.\n\n자세한 사항은 아래의 예시 대시보드 만들기에서 확인한다.\n\n0.4.3 사이드바의 설정\n사이드바(sidebar)는 {.sidebar} 태그를 통해 만들 수 있는데, 헤더 1(header 1) 레벨이므로 특정한 페이지에 종속되지 않는다. 사이드바는 주로 사용자의 투입을 받을 때 사용되기 때문에 동적인 대시보드에 주로 사용된다. 정적인 대시보드의 경우에는 텍스트를 통한 특정 정보의 제공에 사용될 수 있다.\n# {.sidebar}\nSidebar content\n\n0.4.4 행과 열의 설정\n행(row)과 열(column)은 가장 기본이 되는 레이아웃 요소이다. 기본 원칙은 다음과 같다.\n\n헤더 2(header 2) 레벨이 행의 구분을 일차적으로 결정한다.\n헤더 3(header 3) 레벨이 하위 열의 구분을 이차적으로 결정한다.\nRow와 Column 옆에 {height}, {width} 태그를 통해 가로 세로의 상대적인 크기를 정한다.\n기본적으로는 행을 먼저 구분하도록 설정되어 있다. 만약 헤더 2를 통해 열을, 헤더 3을 통해 행을 구분하고 싶다면, yaml header의 dashboard: 아래 orientation: columns를 추가해야 한다.\n\n## Row {height=70%}\n\nCard 1\n\n## Row {height=30%}\n\n### Column {width=40%}\n\nCard 2-1\n\n### Column {width=60%}\n\nCard 2-2\n\n# Page B\n\nCard 3\n\n0.4.5 탭셋의 설정\nRow나 Column에 {.tabset}을 표기하면, 하위의 행과 열이 탭으로 구분된다. 이렇게 하면 카드의 크기가 지나치게 줄어드는 단점을 해소할 수 있다.\n\n0.4.6 기본 구조 살펴보기\n위를 바탕으로 대시보드의 골격을 작성해본다.\n---\ntitle: \"dashboard\"\nformat: dashboard\ntheme: default\neditor: visual\neditor_options: \n  chunk_output_type: console\n---\n\n# {.sidebar}\nSidebar content\n\n# Page A\n\n## Row {height=70%}\n\nCard 1\n\n## Row {height=30%}\n\n### Column {width=80%} {.tabset}\n\n#### Tab1\nCard 2-1\n\n#### Tab2\nCard 2-2\n\n### Column {width=20%}\n\nCard 2-3\n\n# Page B\n\nCard 3\n위와 같이 설정하면 다음과 같은 결과를 얻을 수 있다."
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#카드와-내용-요소",
+    "href": "LAB_1-2_Dashboard.html#카드와-내용-요소",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "\n0.5 카드와 내용 요소",
+    "text": "0.5 카드와 내용 요소\n카드(card)란 특정한 내용 요소(텍스트, 벨류박스, 테이블, 그래프, 지도 등)를 포함하고 있는, 대시보드의 가장 기본적인 단위이다. 다음의 두 가지 사항이 중요하다.\n\n카드의 제목이 중요하다. 완성된 대시보드 상에 등장하기 때문에 사용자가 이해하기 쉬운 제목이 부여되어야 한다.\n내용 요소에 따라 카드를 작성하는 방법이 조금 다르다.\n\n내용 요소 제작의 세세한 사항은 아래의 “예시 대시보드 만들기”에서 확인한다.\n\n0.5.1 그래프\nQuarto는 그래프 하나를 만들어내는 코드 청크를 하나의 카드로 인식한다. 그래프 카드의 제목은 코드 청크 내의 #| title: 옵션을 통해 부여된다. ggplot2와 같은 정적인 플롯 도구 뿐만 아니라 plotly와 같은 반응형 플롯 도구를 사용하여 그래프 카드를 생성한다.\n\n0.5.2 지도\nQuarto는 지도 하나를 디스플레이하는 코드 청크를 하나의 카드로 인식한다. 지도 카드의 제목은 코드 청크 내의 #| title: 옵션을 통해 부여된다. ggplot2와 같은 정적인 지도 제작 도구 뿐만 아니라 leaflet과 같은 반응형 지도 제작 도구를 사용하여 지도 카드를 생성한다.\n\n0.5.3 텍스트\n일종의 텍스트 박스도 하나의 카드로 간주된다. 그래프, 테이블, 지도가 하나의 코드 청크가 하나의 카드로 인식되는데 반해 텍스트 카드는 다른 형식을 취한다. ::: {.card} div를 사용해야 하며 괄호 내부에 title= 옵션을 사용해 제목을 지정해야 한다. 가령 {.card title=\"Text\"}와 같이 표기해야 한다.\n\n0.5.4 밸류박스\n요약적 수치를 큰 박스 속에 나타내는 것을 밸류박스(value box)라고 하는데, 코드 청크로 표현하지만 형식은 조금 다르다. #| content: valuebox라는 옵션이 반드시 포함되야 하며, 제목을 지정하기 위해 #| title: 옵션도 필요하다. 또한 리스트를 이용해 아이콘(icon), 컬러(color), 수치(value)를 지정해야 한다.\n아이콘은 부트스트랩 아이콘(bootstrap icon)이 사용된다. 적절한 아이콘을 찾고 그 이름을 #| title: 옵션을 통해 설정하는 것이 중요하다.\n모든 컬러가 다 사용가능한 것은 아니다. 아래의 표를 참조하여 컬러를 설정해야 한다.\n\n\nColor Alias\nDefault Theme Color(s)\n\n\n\nprimary\nBlue\n\n\nsecondary\nGray\n\n\nsuccess\nGreen\n\n\ninfo\nBright Blue\n\n\nwarning\nYellow/Orange\n\n\ndanger\nRed\n\n\nlight\nLight Gray\n\n\ndark\nBlack"
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#yaml-헤더-1",
+    "href": "LAB_1-2_Dashboard.html#yaml-헤더-1",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "\n2.1 YAML 헤더",
+    "text": "2.1 YAML 헤더\n다양한 theme을 실험해본다. scrolling:을 true로 두면 대시보드가 상하 스크롤이 가능해져 콘텐츠를 많이 넣을 수 있다는 장점이 있지만, 앞서 레이아웃 설정에서 배운 {height=} 옵션 사용이 불가능해진다.\n---\ntitle: \"dashboard\"\nformat: \n  dashboard:\n    scrolling: false\ntheme: flatly\neditor: visual\neditor_options: \n  chunk_output_type: console\n---"
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#plot-페이지",
+    "href": "LAB_1-2_Dashboard.html#plot-페이지",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "\n2.2 Plot 페이지",
+    "text": "2.2 Plot 페이지\nIntro라는 이름의 페이지를 설정한다.\n# Plot\n\n2.2.1 첫번째 행: Text 카드\n행을 설정하고 행의 상대적인 높이(20%)를 지정한다.\n## Row {height=\"20%\"}\n텍스트 카드를 생성한다. 텍스트 카드를 생성하기 위해 {.card} 태그가 사용되어야 하며, 텍스트 카드의 제목을 지정하기 위해 title= 옵션이 사용되어야 함에 주의한다.\n::: {.card title=\"Text\"}\nThis is my first dashboard.\n:::\n\n2.2.2 두번째 행의 탭셋: Static Plot\n행을 설정하고 행의 상대적인 높이(80%)를 지정한다. 탭셋을 생성하기 위해 {.tabset} 태그가 사용되어야 함에 주의한다.\n## Row {.tabset height=\"80%\"}\n그래프 카드를 생성하기 위해 ggplot2 패키지를 활용한다. 그래프 카드의 제목을 지정하기 위해 title= 옵션이 사용되어야 함에 주의한다. 이때 산출될 플롯의 크기는 fig-width와 fig-height로 조정할 수 있다.\n#| title: Static Plot\n#| fig-width: 15\n#| fig-height: 6\n\nlibrary(tidyverse)\n\nggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n    geom_point() +\n    labs(\n        title = \"Relationship Between Petal Length and Width\", # 그래프 제목\n        x = \"Petal Length (cm)\", # x축 제목\n        y = \"Petal Width (cm)\", # y축 제목\n        color = \"Species\", # 범례 제목\n    ) +\n    theme_minimal() \n다음 탭셋에는 인터랙티브 플롯을 생성하기 위해 ggplotly() 함수를 활용한다.\n#| title: Interactive Plot\n#| fig-width: 15\n#| fig-height: 6\n\nlibrary(plotly)\n\np &lt;- ggplot(data = iris, aes(x = Petal.Length, y = Petal.Width, color = Species)) +\n        geom_point() +\n        labs(\n            title = \"Relationship Between Petal Length and Width\", # 그래프 제목\n            x = \"Petal Length (cm)\", # x축 제목\n            y = \"Petal Width (cm)\", # y축 제목\n            color = \"Species\", # 범례 제목\n        )\n\nggplotly(p)"
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#map-페이지",
+    "href": "LAB_1-2_Dashboard.html#map-페이지",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "\n2.3 Map 페이지",
+    "text": "2.3 Map 페이지\nMap이라는 이름의 페이지를 설정한다.\n# Map\n\n2.3.1 첫번째 열의 그래프 카드: Interactive NDVI Map of Seoul\nMap 페이지를 보면 행의 구분 없이 2개의 열로 분할되어 있다. YAML 헤더에서 orientation: columns 설정을 하지 않았기 때문에 Row 설정을 먼저한 뒤 바로 Column 설정을 한다.\n## Row\n\n### Column {width=\"50%\"}\nleaflet 패키지를 활용하여 그래프 카드를 생성한다.\n#| title: \"Interactive NDVI Map of Seoul(2025.04.26.)\"\n\nlibrary(tidyverse)\nlibrary(terra)\nlibrary(tidyterra)\nlibrary(sf)\nlibrary(leaflet)\n\nSIGUN &lt;- st_read(\"landsat/SIGUN/SIGUN.shp\",\n                 options = \"ENCODING=CP949\",\n                 quiet = TRUE)\nseoul &lt;- SIGUN |&gt;  \n    filter(\n        SG1_NM == \"서울특별시\"\n        )\n\nlandsat_seoul &lt;- rast(\"landsat/landsat_seoul.tif\")\nlandsat_seoul_mask &lt;- landsat_seoul |&gt; \n  mask(seoul)\n\nnumerator &lt;- landsat_seoul_mask[[\"B5_NIR\"]] - landsat_seoul_mask[[\"B4_Red\"]]\ndenominator &lt;- landsat_seoul_mask[[\"B5_NIR\"]] + landsat_seoul_mask[[\"B4_Red\"]]\nNDVI_2025 &lt;- numerator / denominator\n\npal_numeric &lt;- colorNumeric(palette = \"RdYlGn\",\n                            values(NDVI_2025),\n                            na.color = \"transparent\"\n                            )\n\nleaflet() |&gt; \n  addTiles() |&gt; \n  addRasterImage(NDVI_2025, colors = pal_numeric, opacity = 0.8) |&gt; \n  addLegend(pal = pal_numeric,\n            values = values(NDVI_2025),\n            title = \"NDVI of Seoul\"\n            )\n\n2.3.2 두번째 행의 그래프 카드: What is NDVI?\n### Column {width=\"50%\"}\n앞선 페이지와 동일한 방식으로 텍스트를 입력한다.\n::: {.card title=\"What is NDVI?\"}\nNDVI(Normalized Difference Vegetation Index, 식생지수)는 위성 영상이나 항공 영상을 활용하여 지표면의 식생 상태를 정량적으로 분석하기 위한 대표적인 지표입니다..."
+  },
+  {
+    "objectID": "LAB_1-2_Dashboard.html#iframe-페이지",
+    "href": "LAB_1-2_Dashboard.html#iframe-페이지",
+    "title": "Quarto를 활용한 대시보드 제작",
+    "section": "\n2.4 iframe 페이지",
+    "text": "2.4 iframe 페이지\niframe이라는 이름의 페이지를 설정한다.\n# iframe\n텍스트 입력을 위한 행을 설정한다.\n## Row {height=\"12%\"}\n설명 텍스트를 작성한다.\niframe을 통해서 웹사이트를 대시보드에 불러올 수 있는데, 이를 embedding이라고 한다.\n열을 두개로 분할하고, 왼쪽 열에 YouTube 영상을 iframe으로 가져온다.\n### Column {width=\"50%\"}\n::: {.card title=\"What is NDVI?\"}\n&lt;iframe width=\"1000\" height=\"600\" src=\"https://www.youtube.com/embed/rxOMhQwApMc?si=_K_qCxFqdn4qJTLH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&gt;\n\n&lt;/iframe&gt;\n:::\n오른쪽 열에는 NDVI에 대한 뉴스 기사를 iframe으로 가져와본다.\n### Column {width=\"50%\"}\n::: {.card title=\"NDVI in News\"}\n&lt;iframe src=\"https://www.newstree.kr/newsView/ntr202505140022\" loading=\"lazy\" style=\"width: 100%; height: 600px; border: 0px none;\" allow=\"web-share; clipboard-write\"&gt;\n\n&lt;/iframe&gt;\n:::"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#tpack-dbl",
+    "href": "lecture_2025_07_28.html#tpack-dbl",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "TPACK-DBL",
+    "text": "TPACK-DBL\n\n디지털 제작 도구에 대한 이해와 활용 능력(디지털 역량)\n복잡한 개념을 시각적이고 구조적으로 전달하는 능력(커뮤니케이션 역량)\n분석적 사고 및 데이터 기반 수업 구현 능력(데이터 리터러시 + 기술력)\n오픈 지식 생태계에의 기여(공유 및 협업 역량)"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#프로그램-홈페이지",
+    "href": "lecture_2025_07_28.html#프로그램-홈페이지",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "프로그램 홈페이지",
+    "text": "프로그램 홈페이지\n\nhttps://sangillee.snu.ac.kr/2025_Geospatial_Edu/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-25",
+    "href": "lecture_2025_07_28.html#section-25",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://colorbrewer2.org/"
+  },
+  {
+    "objectID": "lecture_2025_07_28.html#section-30",
+    "href": "lecture_2025_07_28.html#section-30",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 시대의 지리 교사의 역량",
+    "section": "",
+    "text": "https://gsp.humboldt.edu/olm/Courses/GSP_216/lessons/composites.html"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#소개-운영진",
+    "href": "lecture_2025_08_01.html#소개-운영진",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "소개: 운영진",
+    "text": "소개: 운영진\n\n이상일: 서울대학교 지리교육과 교수\n\n서울대학교 AI융합교육학과\n서울대학교 데이터사이언스대학원 응용데이터사이언스\n\n이소영: 가톨릭관동대학교 지리교육과 교수\n실습 조교\n\n김세창: 서울대학교 지리교육과 석사 졸업\n김우형: 서울대학교 지리교육과 조교, 석사과정\n전혜민: 서울대학교 지리교육과 석사과정\n이하은: 서울대학교 지리교육과 조교, 박사과정"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#소개-연수-참가자",
+    "href": "lecture_2025_08_01.html#소개-연수-참가자",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "소개: 연수 참가자",
+    "text": "소개: 연수 참가자\n\n고등학교 지리 교사\n\n김한성(압구정고등학교)\n남혜경(둔촌고등학교)\n배선주(가락고등학교)\n정고은(상명대학교부속여자고등학교)\n최기중(경동고등학교)\n이용훈(한광여자고등학교)\n정종석(광주고등학교)\n\n국토지리정보원: 송민희"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#프로그램-홈페이지",
+    "href": "lecture_2025_08_01.html#프로그램-홈페이지",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "프로그램 홈페이지",
+    "text": "프로그램 홈페이지\n\nhttps://sangillee.snu.ac.kr/2025_Geospatial_Edu/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#강의-목차",
+    "href": "lecture_2025_08_01.html#강의-목차",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "강의 목차",
+    "text": "강의 목차\n\nAIㆍ디지털 전환과 세 가지 사이언스의 융합\n인터랙티브 지리공간 교수-학습 웹 앱 개발 역량"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-1",
+    "href": "lecture_2025_08_01.html#section-1",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/ChatGPT"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-2",
+    "href": "lecture_2025_08_01.html#section-2",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/Large_language_model"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-5",
+    "href": "lecture_2025_08_01.html#section-5",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://dunoit.com/blogs/30-ai-64f7e9d81cb43\n\n\n\n\n\n\n\nhttps://commons.wikimedia.org/wiki/File:R_logo.svg"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-7",
+    "href": "lecture_2025_08_01.html#section-7",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/John_Snow"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-9",
+    "href": "lecture_2025_08_01.html#section-9",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://mokeya.tistory.com/76"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-10",
+    "href": "lecture_2025_08_01.html#section-10",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "데이터사이언스는 원(raw) 데이터로부터 지식, 이해, 통찰을 획득하기 위해 수학 및 통계학, 컴퓨터 과학, 도메인(분야) 지식에서 발전해 온 이론, 기술, 방법론 등을 융합적으로 활용하는 간학문적 영역\n\n\n지식, 이해, 통찰을 효과적으로 소통하고, 현실 문제 해결에 대안을 제시"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-11",
+    "href": "lecture_2025_08_01.html#section-11",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://commons.wikimedia.org/wiki/File:Data-Science-Landscape.jpg"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-12",
+    "href": "lecture_2025_08_01.html#section-12",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://www.openscience-maastricht.nl/the-open-science-mission/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-13",
+    "href": "lecture_2025_08_01.html#section-13",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://libraries.mit.edu/news/data-necessarily/31421/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-14",
+    "href": "lecture_2025_08_01.html#section-14",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://cloud.google.com/apigee/docs/api-platform/tutorials/create-api-proxy-openapi-spec?hl=ko"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-15",
+    "href": "lecture_2025_08_01.html#section-15",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://en.wikipedia.org/wiki/Open_Source_Initiative"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-16",
+    "href": "lecture_2025_08_01.html#section-16",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://blogs.oregonstate.edu/inspire/2021/11/15/open-educational-resources-for-language-teaching-and-learning/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-17",
+    "href": "lecture_2025_08_01.html#section-17",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://www.technologynetworks.com/informatics/articles/repeatability-vs-reproducibility-317157"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-18",
+    "href": "lecture_2025_08_01.html#section-18",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://ttw-rtd.readthedocs.io/en/latest/reproducible-research/reproducible-research.html"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-19",
+    "href": "lecture_2025_08_01.html#section-19",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://velog.io/@eldoradodo/an96ydx7"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-23",
+    "href": "lecture_2025_08_01.html#section-23",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "EPSG:4326EPSG: 54030EPSG: ???\n\n\n\n\n\nhttps://earthobservatory.nasa.gov/features/NightLights\n\n\n\n\n\n\n\n PROJ.4 문자열: +proj=robin +lon_0=150 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-25",
+    "href": "lecture_2025_08_01.html#section-25",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://colorbrewer2.org/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-30",
+    "href": "lecture_2025_08_01.html#section-30",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://gsp.humboldt.edu/olm/Courses/GSP_216/lessons/composites.html"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-38",
+    "href": "lecture_2025_08_01.html#section-38",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://farda.staff.ugm.ac.id/2020/08/05/spatial-data-science/\n\n\n\n\n \n\n\n\n\n\nhttps://r-spatial.org/book/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-41",
+    "href": "lecture_2025_08_01.html#section-41",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "http://dx.doi.org/10.17232/KSET.41.1.79"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#인터랙티브-교수-학습-웹-앱",
+    "href": "lecture_2025_08_01.html#인터랙티브-교수-학습-웹-앱",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "인터랙티브 교수-학습 웹 앱",
+    "text": "인터랙티브 교수-학습 웹 앱\n\n학습자와 콘텐츠 간의 상호작용을 중심으로 설계되어, 능동적 참여, 즉각적 피드백, 탐구 활동 등을 통해 개인의 학습 경험을 향상시키는 교육용 웹 애플리케이션\n성격\n\n디지털 학습지: 교과의 학습 내용을 효과적으로 교수/학습하도록 도와주는 도구\n탐구 학습 도구: 데이터 탐색을 통해 학습자 스스로 이해, 지식, 통찰을 얻도록 도와주는 도구"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#인터랙티브-교수-학습-웹-앱-1",
+    "href": "lecture_2025_08_01.html#인터랙티브-교수-학습-웹-앱-1",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "인터랙티브 교수-학습 웹 앱",
+    "text": "인터랙티브 교수-학습 웹 앱\n\n웹 브라우저를 통해 접근하고 사용하는 교수-학습 목적의 애플리케이션\n데이터 대시보드: 단일한 주제에 대한 상호연관된 다양한 데이터 정보를 그래픽의 형태로 일관성 있게 제시한 것\n\n레이아웃 요소: 카드(행과 열), 페이지, 내비게이션바, 사이드바, 툴바, 탭셋\n내용 요소: 텍스트, 표, 그래프, 지도, 동영상, 밸류 박스\n작동 요소: 정적, 동적, 인터랙티브"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-42",
+    "href": "lecture_2025_08_01.html#section-42",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://ivelasq.github.io/mortgage-dashboard/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#인터랙티브-지리공간-교수-학습-웹-앱",
+    "href": "lecture_2025_08_01.html#인터랙티브-지리공간-교수-학습-웹-앱",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "인터랙티브 지리공간 교수-학습 웹 앱",
+    "text": "인터랙티브 지리공간 교수-학습 웹 앱\n\n지리공간 요소가 강화된 인터랙티브 교수-학습 웹 앱\n학습자가 지리공간정보를 직접 조작하거나 탐색하면서, 지리 개념, 공간 사고력, 문제 해결 능력 등을 능동적·체험적 방식으로 학습할 수 있도록 설계된 교육용 웹 애플리케이션\n\n인터렉티브 지리공간 시각화 및 탐색 기능\n\n예시\n\nhttps://sangillee.snu.ac.kr/dashboard_examples/\nhttps://sangillee.snu.ac.kr/dashboard_popgeo/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#tpack-dbl-프레임워크",
+    "href": "lecture_2025_08_01.html#tpack-dbl-프레임워크",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "TPACK-DBL 프레임워크",
+    "text": "TPACK-DBL 프레임워크\n\n\n\n\n\n\nhttps://tpack.org/tpack-image/\n\n\n\n\n\n\n\nBaran and Uygun, 2016"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#tpack-dbl",
+    "href": "lecture_2025_08_01.html#tpack-dbl",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "TPACK-DBL",
+    "text": "TPACK-DBL\n\n디지털 제작 도구에 대한 이해와 활용 능력(디지털 역량)\n복잡한 개념을 시각적이고 구조적으로 전달하는 능력(커뮤니케이션 역량)\n분석적 사고 및 데이터 기반 수업 구현 능력(데이터 리터러시 + 기술력)\n오픈 지식 생태계에의 기여(공유 및 협업 역량)"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#제작-도구",
+    "href": "lecture_2025_08_01.html#제작-도구",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "제작 도구",
+    "text": "제작 도구\n\nQuarto(쿼토): 대시보드 제작 및 웹 앱 생성\n\n“과학적, 기술적 출판을 위한 위한 오픈소스 시스템”\n다양한 형식의 저작물(노트, 연구 논문, 프레젠테이션, 대시보드, 웹사이트, 블로그, 서적 등)을 다양한 디지털 포맷(HTML, PDF, MS Word, ePub 등)으로 출판할 수 있게 해주는 도구\n\nR(혹은 Python): 인터랙티브 콘텐츠 제작\n\n데이터사이언스 프로세스의 실행\n인터랙티브 지리공간 시각화 및 탐색 기능의 구현"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-43",
+    "href": "lecture_2025_08_01.html#section-43",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://rstudio.github.io/cheatsheets/html/quarto.html"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-44",
+    "href": "lecture_2025_08_01.html#section-44",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://bioinformatics.ccr.cancer.gov/docs/btep-coding-club/CC2024/Quarto/GettingStarted_with_Quarto_orig.html"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-45",
+    "href": "lecture_2025_08_01.html#section-45",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-46",
+    "href": "lecture_2025_08_01.html#section-46",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-47",
+    "href": "lecture_2025_08_01.html#section-47",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-50",
+    "href": "lecture_2025_08_01.html#section-50",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://sangillee.shinyapps.io/ThiessenPolygon/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#자바스크립트-라이브러리",
+    "href": "lecture_2025_08_01.html#자바스크립트-라이브러리",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "자바스크립트 라이브러리",
+    "text": "자바스크립트 라이브러리\n\n웹 앱의 3요소\n\nHTML: 구조와 내용\nCSS: 시각적 디자인\nJavaScript: 동작 및 인터랙션 제어\n\n자바스크립트 라이브러리(JS Library)\n\n자바스크립트로 구현된, 특정 기능을 수행하기 위한 코드들의 모음\n테이블, 차트, 지도\nR 래퍼 패키지"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-51",
+    "href": "lecture_2025_08_01.html#section-51",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://data-flair.training/blogs/javascript-libraries/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-52",
+    "href": "lecture_2025_08_01.html#section-52",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://plotly.com/r/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-53",
+    "href": "lecture_2025_08_01.html#section-53",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://echarts.apache.org/examples/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-54",
+    "href": "lecture_2025_08_01.html#section-54",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=hero&utm_campaign=try-observable"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#section-55",
+    "href": "lecture_2025_08_01.html#section-55",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "",
+    "text": "https://leafletjs.com/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#생성형-ai",
+    "href": "lecture_2025_08_01.html#생성형-ai",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "생성형 AI",
+    "text": "생성형 AI\n\n\n\n\n\n\nhttps://ellmer.tidyverse.org/\n\n\n\n\n\n\n\nhttps://ragnar.tidyverse.org/\n\n\n\n\n\n\n\n\n\nhttps://sangillee.snu.ac.kr/"
+  },
+  {
+    "objectID": "lecture_2025_08_01.html#소개",
+    "href": "lecture_2025_08_01.html#소개",
+    "title": "지리공간정보 교육 프로그램\nAIㆍ디지털 전환과 지리공간정보",
+    "section": "소개",
+    "text": "소개\n\n서울대학교 사범대학 지리교육과 교수\n\nhttps://sangillee.snu.ac.kr/\nGIS, 지도학, 공간통계분석, 원격탐사, 인구지리학\n\n겸임\n\n서울대학교 사범대학 AI융합교육학과 겸임교수\n서울대학교 데이터사이언스대학원 융합전공 응용데이터사이언스 겸임교수\n서울대학교 학습과학연구소 AI기반교육연구센터 겸임연구원"
+  }
+]

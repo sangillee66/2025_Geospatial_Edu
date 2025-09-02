@@ -40,13 +40,13 @@ editor: visual
 # suppress-bibliography: true
 ---
 
-## 소개 {.smaller}
+## 소개
 
 -   서울대학교 사범대학 [지리교육과](https://geoedu.snu.ac.kr/) 교수
 
     -   <https://sangillee.snu.ac.kr/>
 
-    -   지도학, GIS, 공간통계분석, 원격탐사, 인구지리학
+    -   GIS, 지도학, 공간통계분석, 원격탐사, 인구지리학
 
 -   겸임
 
